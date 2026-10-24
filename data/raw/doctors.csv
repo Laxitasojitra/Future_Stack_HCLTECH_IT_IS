@@ -1,0 +1,27 @@
+doctor_id,first_name,last_name,specialization,department_id,phone_number,email,years_experience,hospital_branch,consultation_days,consultation_hours,consultation_fee_inr
+D001,David,Taylor,Dermatology,DEP-DERM,8322010158,dr.david.taylor@hospital.com,17,Westside Clinic,Mon-Sat,09:00-17:00,1100
+D002,Jane,Davis,Pediatrics,DEP-PEDS,9004382050,dr.jane.davis@hospital.com,24,Eastside Clinic,Mon-Sat,09:00-17:00,1200
+D003,Jane,Smith,Pediatrics,DEP-PEDS,8737740598,dr.jane.smith@hospital.com,19,Eastside Clinic,Mon-Sat,09:00-17:00,1100
+D004,David,Jones,Pediatrics,DEP-PEDS,6594221991,dr.david.jones@hospital.com,28,Central Hospital,Mon-Sat,09:00-17:00,1300
+D005,Sarah,Taylor,Dermatology,DEP-DERM,9118538547,dr.sarah.taylor@hospital.com,26,Central Hospital,Mon-Sat,09:00-17:00,1300
+D006,Alex,Davis,Pediatrics,DEP-PEDS,6570137231,dr.alex.davis@hospital.com,23,Central Hospital,Mon-Sat,09:00-17:00,1200
+D007,Robert,Davis,Oncology,DEP-ONCO,8217493115,dr.robert.davis@hospital.com,26,Westside Clinic,Mon-Sat,09:00-17:00,1300
+D008,Linda,Brown,Dermatology,DEP-DERM,9069162601,dr.linda.brown@hospital.com,5,Westside Clinic,Mon-Sat,09:00-17:00,900
+D009,Sarah,Smith,Pediatrics,DEP-PEDS,7387087517,dr.sarah.smith@hospital.com,26,Central Hospital,Mon-Sat,09:00-17:00,1300
+D010,Linda,Wilson,Oncology,DEP-ONCO,6176383634,dr.linda.wilson@hospital.com,21,Eastside Clinic,Mon-Sat,09:00-17:00,1200
+D011,Anil,Kapoor,Cardiology,DEP-CARD,8746317213,dr.anil.kapoor@hospital.com,22,Central Hospital,Mon-Sat,09:00-17:00,1200
+D012,Sneha,Rao,Cardiology,DEP-CARD,6478163327,dr.sneha.rao@hospital.com,11,Eastside Clinic,Mon-Sat,09:00-17:00,1000
+D013,Rajesh,Kulkarni,Orthopedics,DEP-ORTH,6107420369,dr.rajesh.kulkarni@hospital.com,25,Central Hospital,Mon-Sat,09:00-17:00,1300
+D014,Neha,Bhat,Orthopedics,DEP-ORTH,9184935163,dr.neha.bhat@hospital.com,9,Westside Clinic,Mon-Sat,09:00-17:00,900
+D015,Suresh,Pillai,Endocrinology,DEP-ENDO,7181241943,dr.suresh.pillai@hospital.com,18,Central Hospital,Mon-Sat,09:00-17:00,1100
+D016,Kavita,Menon,Nephrology,DEP-NEPH,7051802512,dr.kavita.menon@hospital.com,16,Central Hospital,Mon-Sat,09:00-17:00,1100
+D017,Imran,Qureshi,General Surgery,DEP-GSUR,6958682846,dr.imran.qureshi@hospital.com,20,Central Hospital,Mon-Sat,09:00-17:00,1200
+D018,Deepa,Varma,Ophthalmology,DEP-OPHT,6599310825,dr.deepa.varma@hospital.com,14,Central Hospital,Mon-Sat,09:00-17:00,1000
+D019,Manoj,Tiwari,Anesthesia,DEP-ANES,9163119785,dr.manoj.tiwari@hospital.com,17,Central Hospital,Mon-Sat,09:00-17:00,1100
+D020,Pooja,Shetty,Radiology,DEP-RADI,6440213415,dr.pooja.shetty@hospital.com,13,Central Hospital,Mon-Sat,09:00-17:00,1000
+D021,Harish,Gowda,Radiology,DEP-RADI,8906402157,dr.harish.gowda@hospital.com,8,Westside Clinic,Mon-Sat,09:00-17:00,900
+D022,Farah,Siddiqui,Laboratory Medicine,DEP-LABM,9181143731,dr.farah.siddiqui@hospital.com,15,Central Hospital,Mon-Sat,09:00-17:00,1100
+D023,Vivek,Anand,Physiotherapy,DEP-PHYS,9831882064,dr.vivek.anand@hospital.com,10,Central Hospital,Mon-Sat,09:00-17:00,1000
+D024,Ritu,Malhotra,Physiotherapy,DEP-PHYS,8342331444,dr.ritu.malhotra@hospital.com,7,Eastside Clinic,Mon-Sat,09:00-17:00,900
+D025,Sanjay,Joshi,Gastroenterology,DEP-GAST,6373399426,dr.sanjay.joshi@hospital.com,19,Central Hospital,Mon-Sat,09:00-17:00,1100
+D026,Nisha,Agarwal,Neurology,DEP-NEUR,8536146025,dr.nisha.agarwal@hospital.com,12,Central Hospital,Mon-Sat,09:00-17:00,1000

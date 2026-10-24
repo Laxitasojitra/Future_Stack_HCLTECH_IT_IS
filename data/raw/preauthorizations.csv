@@ -1,0 +1,6 @@
+preauth_id,patient_id,plan_id,surgery_id,procedure_code,status,submitted_date,decision_date,approved_amount_inr,remarks
+PA001,P051,WC-GOLD,S001,TKR,submitted,2026-10-22,,,Awaiting insurer decision (3 working days).
+PA002,P054,WC-GOLD,S002,LAPCHOLE,approved,2026-10-16,2026-10-18,85500,Approved: 10% co-pay applies.
+PA003,P055,MC-BASIC,S003,HERNIA,not_submitted,,,,TPA desk must submit at least 5 days before surgery.
+PA004,P058,SHAS,S005,CATARACT,approved,2026-10-20,2026-10-22,15000,SHAS package approved; no payment due from the beneficiary.
+PA005,P060,WC-GOLD,S006,TKR,approved,2026-09-29,2026-10-02,200000,"Approved up to Gold sub-limit Rs 2,50,000 with 20% co-pay."

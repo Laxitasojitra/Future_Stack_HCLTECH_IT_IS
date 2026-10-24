@@ -1,0 +1,2 @@
+refund_id,bill_id,patient_id,amount_inr,refund_mode,initiated_date,expected_by,status
+RF001,B206,P060,12000,UPI,2026-10-21,2026-10-30,processing

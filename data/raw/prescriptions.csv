@@ -1,0 +1,154 @@
+prescription_id,patient_id,drug_id,drug_name,dose,frequency,start_date,end_date,status,prescribed_by
+RX0001,P001,DRG022,Ondansetron,4 mg,As needed before chemotherapy,2026-06-26,,active,D007
+RX0002,P001,DRG020,Pantoprazole,40 mg,Once daily before breakfast,2026-06-26,,active,D007
+RX0003,P001,DRG006,Amlodipine,5 mg,Once daily,2025-12-28,,active,D011
+RX0004,P001,DRG016,Paracetamol,650 mg,Up to 3 times daily when needed,2026-08-25,,active,D023
+RX0005,P002,DRG022,Ondansetron,4 mg,As needed before chemotherapy,2026-06-26,,active,D007
+RX0006,P002,DRG020,Pantoprazole,40 mg,Once daily before breakfast,2026-06-26,,active,D007
+RX0007,P002,DRG016,Paracetamol,650 mg,Up to 3 times daily when needed,2026-08-25,,active,D023
+RX0008,P004,DRG006,Amlodipine,5 mg,Once daily,2025-12-28,,active,D011
+RX0009,P004,DRG004,Atorvastatin,10 mg,Once daily at night,2025-12-28,,active,D011
+RX0010,P005,DRG022,Ondansetron,4 mg,As needed before chemotherapy,2026-06-26,,active,D007
+RX0011,P005,DRG020,Pantoprazole,40 mg,Once daily before breakfast,2026-06-26,,active,D007
+RX0012,P005,DRG006,Amlodipine,5 mg,Once daily,2025-12-28,,active,D011
+RX0013,P005,DRG004,Atorvastatin,10 mg,Once daily at night,2025-12-28,,active,D011
+RX0014,P005,DRG016,Paracetamol,650 mg,Up to 3 times daily when needed,2026-08-25,,active,D023
+RX0015,P006,DRG001,Metformin,500 mg,Twice daily,2025-09-19,,active,D015
+RX0016,P007,DRG022,Ondansetron,4 mg,As needed before chemotherapy,2026-06-26,,active,D007
+RX0017,P007,DRG020,Pantoprazole,40 mg,Once daily before breakfast,2026-06-26,,active,D007
+RX0018,P008,DRG016,Paracetamol,650 mg,Up to 3 times daily when needed,2026-08-25,,active,D023
+RX0019,P009,DRG022,Ondansetron,4 mg,As needed before chemotherapy,2026-06-26,,active,D007
+RX0020,P009,DRG020,Pantoprazole,40 mg,Once daily before breakfast,2026-06-26,,active,D007
+RX0021,P009,DRG006,Amlodipine,5 mg,Once daily,2025-12-28,,active,D011
+RX0022,P010,DRG022,Ondansetron,4 mg,As needed before chemotherapy,2026-06-26,,active,D007
+RX0023,P010,DRG020,Pantoprazole,40 mg,Once daily before breakfast,2026-06-26,,active,D007
+RX0024,P010,DRG006,Amlodipine,5 mg,Once daily,2025-12-28,,active,D011
+RX0025,P011,DRG022,Ondansetron,4 mg,As needed before chemotherapy,2026-06-26,,active,D007
+RX0026,P011,DRG020,Pantoprazole,40 mg,Once daily before breakfast,2026-06-26,,active,D007
+RX0027,P011,DRG001,Metformin,500 mg,Twice daily,2025-09-19,,active,D015
+RX0028,P012,DRG022,Ondansetron,4 mg,As needed before chemotherapy,2026-06-26,,active,D007
+RX0029,P012,DRG020,Pantoprazole,40 mg,Once daily before breakfast,2026-06-26,,active,D007
+RX0030,P012,DRG006,Amlodipine,5 mg,Once daily,2025-12-28,,active,D011
+RX0031,P012,DRG004,Atorvastatin,10 mg,Once daily at night,2025-12-28,,active,D011
+RX0032,P012,DRG016,Paracetamol,650 mg,Up to 3 times daily when needed,2026-08-25,,active,D023
+RX0033,P013,DRG022,Ondansetron,4 mg,As needed before chemotherapy,2026-06-26,,active,D007
+RX0034,P013,DRG020,Pantoprazole,40 mg,Once daily before breakfast,2026-06-26,,active,D007
+RX0035,P013,DRG016,Paracetamol,650 mg,Up to 3 times daily when needed,2026-08-25,,active,D023
+RX0036,P014,DRG022,Ondansetron,4 mg,As needed before chemotherapy,2026-06-26,,active,D007
+RX0037,P014,DRG020,Pantoprazole,40 mg,Once daily before breakfast,2026-06-26,,active,D007
+RX0038,P014,DRG006,Amlodipine,5 mg,Once daily,2025-12-28,,active,D011
+RX0039,P015,DRG001,Metformin,500 mg,Twice daily,2025-09-19,,active,D015
+RX0040,P016,DRG022,Ondansetron,4 mg,As needed before chemotherapy,2026-06-26,,active,D007
+RX0041,P016,DRG020,Pantoprazole,40 mg,Once daily before breakfast,2026-06-26,,active,D007
+RX0042,P016,DRG006,Amlodipine,5 mg,Once daily,2025-12-28,,active,D011
+RX0043,P016,DRG016,Paracetamol,650 mg,Up to 3 times daily when needed,2026-08-25,,active,D023
+RX0044,P017,DRG022,Ondansetron,4 mg,As needed before chemotherapy,2026-06-26,,active,D007
+RX0045,P017,DRG020,Pantoprazole,40 mg,Once daily before breakfast,2026-06-26,,active,D007
+RX0046,P017,DRG016,Paracetamol,650 mg,Up to 3 times daily when needed,2026-08-25,,active,D023
+RX0047,P018,DRG022,Ondansetron,4 mg,As needed before chemotherapy,2026-06-26,,active,D007
+RX0048,P018,DRG020,Pantoprazole,40 mg,Once daily before breakfast,2026-06-26,,active,D007
+RX0049,P019,DRG006,Amlodipine,5 mg,Once daily,2025-12-28,,active,D011
+RX0050,P019,DRG004,Atorvastatin,10 mg,Once daily at night,2025-12-28,,active,D011
+RX0051,P019,DRG016,Paracetamol,650 mg,Up to 3 times daily when needed,2026-08-25,,active,D023
+RX0052,P020,DRG016,Paracetamol,650 mg,Up to 3 times daily when needed,2026-08-25,,active,D023
+RX0053,P021,DRG022,Ondansetron,4 mg,As needed before chemotherapy,2026-06-26,,active,D007
+RX0054,P021,DRG020,Pantoprazole,40 mg,Once daily before breakfast,2026-06-26,,active,D007
+RX0055,P021,DRG006,Amlodipine,5 mg,Once daily,2025-12-28,,active,D011
+RX0056,P021,DRG004,Atorvastatin,10 mg,Once daily at night,2025-12-28,,active,D011
+RX0057,P021,DRG016,Paracetamol,650 mg,Up to 3 times daily when needed,2026-08-25,,active,D023
+RX0058,P022,DRG006,Amlodipine,5 mg,Once daily,2025-12-28,,active,D011
+RX0059,P022,DRG004,Atorvastatin,10 mg,Once daily at night,2025-12-28,,active,D011
+RX0060,P023,DRG022,Ondansetron,4 mg,As needed before chemotherapy,2026-06-26,,active,D007
+RX0061,P023,DRG020,Pantoprazole,40 mg,Once daily before breakfast,2026-06-26,,active,D007
+RX0062,P023,DRG006,Amlodipine,5 mg,Once daily,2025-12-28,,active,D011
+RX0063,P023,DRG004,Atorvastatin,10 mg,Once daily at night,2025-12-28,,active,D011
+RX0064,P023,DRG016,Paracetamol,650 mg,Up to 3 times daily when needed,2026-08-25,,active,D023
+RX0065,P024,DRG022,Ondansetron,4 mg,As needed before chemotherapy,2026-06-26,,active,D007
+RX0066,P024,DRG020,Pantoprazole,40 mg,Once daily before breakfast,2026-06-26,,active,D007
+RX0067,P024,DRG006,Amlodipine,5 mg,Once daily,2025-12-28,,active,D011
+RX0068,P024,DRG004,Atorvastatin,10 mg,Once daily at night,2025-12-28,,active,D011
+RX0069,P025,DRG006,Amlodipine,5 mg,Once daily,2025-12-28,,active,D011
+RX0070,P025,DRG016,Paracetamol,650 mg,Up to 3 times daily when needed,2026-08-25,,active,D023
+RX0071,P026,DRG022,Ondansetron,4 mg,As needed before chemotherapy,2026-06-26,,active,D007
+RX0072,P026,DRG020,Pantoprazole,40 mg,Once daily before breakfast,2026-06-26,,active,D007
+RX0073,P026,DRG006,Amlodipine,5 mg,Once daily,2025-12-28,,active,D011
+RX0074,P026,DRG004,Atorvastatin,10 mg,Once daily at night,2025-12-28,,active,D011
+RX0075,P026,DRG016,Paracetamol,650 mg,Up to 3 times daily when needed,2026-08-25,,active,D023
+RX0076,P027,DRG006,Amlodipine,5 mg,Once daily,2025-12-28,,active,D011
+RX0077,P027,DRG004,Atorvastatin,10 mg,Once daily at night,2025-12-28,,active,D011
+RX0078,P029,DRG022,Ondansetron,4 mg,As needed before chemotherapy,2026-06-26,,active,D007
+RX0079,P029,DRG020,Pantoprazole,40 mg,Once daily before breakfast,2026-06-26,,active,D007
+RX0080,P029,DRG006,Amlodipine,5 mg,Once daily,2025-12-28,,active,D011
+RX0081,P029,DRG004,Atorvastatin,10 mg,Once daily at night,2025-12-28,,active,D011
+RX0082,P029,DRG016,Paracetamol,650 mg,Up to 3 times daily when needed,2026-08-25,,active,D023
+RX0083,P030,DRG022,Ondansetron,4 mg,As needed before chemotherapy,2026-06-26,,active,D007
+RX0084,P030,DRG020,Pantoprazole,40 mg,Once daily before breakfast,2026-06-26,,active,D007
+RX0085,P030,DRG006,Amlodipine,5 mg,Once daily,2025-12-28,,active,D011
+RX0086,P030,DRG004,Atorvastatin,10 mg,Once daily at night,2025-12-28,,active,D011
+RX0087,P030,DRG001,Metformin,500 mg,Twice daily,2025-09-19,,active,D015
+RX0088,P031,DRG022,Ondansetron,4 mg,As needed before chemotherapy,2026-06-26,,active,D007
+RX0089,P031,DRG020,Pantoprazole,40 mg,Once daily before breakfast,2026-06-26,,active,D007
+RX0090,P031,DRG016,Paracetamol,650 mg,Up to 3 times daily when needed,2026-08-25,,active,D023
+RX0091,P032,DRG006,Amlodipine,5 mg,Once daily,2025-12-28,,active,D011
+RX0092,P032,DRG004,Atorvastatin,10 mg,Once daily at night,2025-12-28,,active,D011
+RX0093,P032,DRG016,Paracetamol,650 mg,Up to 3 times daily when needed,2026-08-25,,active,D023
+RX0094,P033,DRG006,Amlodipine,5 mg,Once daily,2025-12-28,,active,D011
+RX0095,P034,DRG022,Ondansetron,4 mg,As needed before chemotherapy,2026-06-26,,active,D007
+RX0096,P034,DRG020,Pantoprazole,40 mg,Once daily before breakfast,2026-06-26,,active,D007
+RX0097,P034,DRG001,Metformin,500 mg,Twice daily,2025-09-19,,active,D015
+RX0098,P035,DRG022,Ondansetron,4 mg,As needed before chemotherapy,2026-06-26,,active,D007
+RX0099,P035,DRG020,Pantoprazole,40 mg,Once daily before breakfast,2026-06-26,,active,D007
+RX0100,P035,DRG006,Amlodipine,5 mg,Once daily,2025-12-28,,active,D011
+RX0101,P035,DRG016,Paracetamol,650 mg,Up to 3 times daily when needed,2026-08-25,,active,D023
+RX0102,P036,DRG022,Ondansetron,4 mg,As needed before chemotherapy,2026-06-26,,active,D007
+RX0103,P036,DRG020,Pantoprazole,40 mg,Once daily before breakfast,2026-06-26,,active,D007
+RX0104,P036,DRG006,Amlodipine,5 mg,Once daily,2025-12-28,,active,D011
+RX0105,P036,DRG016,Paracetamol,650 mg,Up to 3 times daily when needed,2026-08-25,,active,D023
+RX0106,P037,DRG006,Amlodipine,5 mg,Once daily,2025-12-28,,active,D011
+RX0107,P037,DRG004,Atorvastatin,10 mg,Once daily at night,2025-12-28,,active,D011
+RX0108,P038,DRG016,Paracetamol,650 mg,Up to 3 times daily when needed,2026-08-25,,active,D023
+RX0109,P039,DRG022,Ondansetron,4 mg,As needed before chemotherapy,2026-06-26,,active,D007
+RX0110,P039,DRG020,Pantoprazole,40 mg,Once daily before breakfast,2026-06-26,,active,D007
+RX0111,P039,DRG016,Paracetamol,650 mg,Up to 3 times daily when needed,2026-08-25,,active,D023
+RX0112,P040,DRG022,Ondansetron,4 mg,As needed before chemotherapy,2026-06-26,,active,D007
+RX0113,P040,DRG020,Pantoprazole,40 mg,Once daily before breakfast,2026-06-26,,active,D007
+RX0114,P040,DRG006,Amlodipine,5 mg,Once daily,2025-12-28,,active,D011
+RX0115,P041,DRG006,Amlodipine,5 mg,Once daily,2025-12-28,,active,D011
+RX0116,P042,DRG022,Ondansetron,4 mg,As needed before chemotherapy,2026-06-26,,active,D007
+RX0117,P042,DRG020,Pantoprazole,40 mg,Once daily before breakfast,2026-06-26,,active,D007
+RX0118,P042,DRG016,Paracetamol,650 mg,Up to 3 times daily when needed,2026-08-25,,active,D023
+RX0119,P042,DRG001,Metformin,500 mg,Twice daily,2025-09-19,,active,D015
+RX0120,P043,DRG022,Ondansetron,4 mg,As needed before chemotherapy,2026-06-26,,active,D007
+RX0121,P043,DRG020,Pantoprazole,40 mg,Once daily before breakfast,2026-06-26,,active,D007
+RX0122,P044,DRG022,Ondansetron,4 mg,As needed before chemotherapy,2026-06-26,,active,D007
+RX0123,P044,DRG020,Pantoprazole,40 mg,Once daily before breakfast,2026-06-26,,active,D007
+RX0124,P045,DRG022,Ondansetron,4 mg,As needed before chemotherapy,2026-06-26,,active,D007
+RX0125,P045,DRG020,Pantoprazole,40 mg,Once daily before breakfast,2026-06-26,,active,D007
+RX0126,P045,DRG006,Amlodipine,5 mg,Once daily,2025-12-28,,active,D011
+RX0127,P045,DRG001,Metformin,500 mg,Twice daily,2025-09-19,,active,D015
+RX0128,P046,DRG022,Ondansetron,4 mg,As needed before chemotherapy,2026-06-26,,active,D007
+RX0129,P046,DRG020,Pantoprazole,40 mg,Once daily before breakfast,2026-06-26,,active,D007
+RX0130,P046,DRG006,Amlodipine,5 mg,Once daily,2025-12-28,,active,D011
+RX0131,P047,DRG006,Amlodipine,5 mg,Once daily,2025-12-28,,active,D011
+RX0132,P048,DRG006,Amlodipine,5 mg,Once daily,2025-12-28,,active,D011
+RX0133,P048,DRG016,Paracetamol,650 mg,Up to 3 times daily when needed,2026-08-25,,active,D023
+RX0134,P049,DRG022,Ondansetron,4 mg,As needed before chemotherapy,2026-06-26,,active,D007
+RX0135,P049,DRG020,Pantoprazole,40 mg,Once daily before breakfast,2026-06-26,,active,D007
+RX0136,P049,DRG006,Amlodipine,5 mg,Once daily,2025-12-28,,active,D011
+RX0137,P050,DRG022,Ondansetron,4 mg,As needed before chemotherapy,2026-06-26,,active,D007
+RX0138,P050,DRG020,Pantoprazole,40 mg,Once daily before breakfast,2026-06-26,,active,D007
+RX0139,P050,DRG006,Amlodipine,5 mg,Once daily,2025-12-28,,active,D011
+RX0140,P051,DRG001,Metformin,500 mg,Twice daily,2024-02-01,,active,D015
+RX0141,P051,DRG004,Atorvastatin,10 mg,Once daily at night,2024-02-01,,active,D015
+RX0142,P052,DRG023,Levothyroxine,50 mcg,Once daily before breakfast,2025-06-01,,active,D015
+RX0143,P053,DRG016,Paracetamol,650 mg,Up to 3 times daily when needed,2026-09-24,,active,D014
+RX0144,P055,DRG012,Warfarin,5 mg,Once daily,2025-11-01,,active,D011
+RX0145,P055,DRG013,Aspirin,75 mg,Once daily,2026-08-15,,active,D011
+RX0146,P055,DRG001,Metformin,1000 mg,Twice daily,2022-03-01,,active,D015
+RX0147,P055,DRG002,Glimepiride,2 mg,Once daily before breakfast,2024-09-01,,active,D015
+RX0148,P056,DRG007,Lisinopril,10 mg,Once daily,2025-05-01,,active,D016
+RX0149,P056,DRG010,Spironolactone,25 mg,Once daily,2026-07-01,,active,D016
+RX0150,P056,DRG011,Furosemide,40 mg,Once daily in the morning,2025-05-01,,active,D016
+RX0151,P060,DRG016,Paracetamol,650 mg,Up to 3 times daily when needed,2026-10-12,,active,D013
+RX0152,P060,DRG020,Pantoprazole,40 mg,Once daily before breakfast,2026-10-12,,active,D013
+RX0153,P060,DRG015,Enoxaparin,40 mg,Once daily injection,2026-10-10,2026-10-22,completed,D013
