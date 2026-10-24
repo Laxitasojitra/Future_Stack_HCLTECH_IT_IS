@@ -1,0 +1,19 @@
+procedure_code,procedure_name,procedure_type,surgery_category,department_id,care_setting,list_price_inr
+CONSULT,Specialist consultation,consultation,,,outpatient,1000
+PAC,Pre-anesthesia check-up,clearance,,DEP-ANES,outpatient,800
+LAB,Laboratory tests (outpatient),diagnostic,,DEP-LABM,outpatient,0
+MRI,MRI scan,diagnostic,,DEP-RADI,outpatient,5000
+CT,CT scan,diagnostic,,DEP-RADI,outpatient,4000
+XRAY,X-ray,diagnostic,,DEP-RADI,outpatient,1200
+ECG,Electrocardiogram (ECG),diagnostic,,DEP-CARD,outpatient,600
+ECHO,Echocardiogram,diagnostic,,DEP-CARD,outpatient,2500
+TMT,Treadmill stress test,diagnostic,,DEP-CARD,outpatient,2200
+PHYSIO,Physiotherapy session,therapy,,DEP-PHYS,outpatient,1000
+CHEMO,Chemotherapy cycle (day-care),therapy,,DEP-ONCO,daycare,5000
+TKR,Total knee replacement,surgery,major,DEP-ORTH,inpatient,285000
+THR,Total hip replacement,surgery,major,DEP-ORTH,inpatient,320000
+LAPCHOLE,Laparoscopic cholecystectomy,surgery,intermediate,DEP-GSUR,inpatient,95000
+APPEND,Laparoscopic appendectomy,surgery,intermediate,DEP-GSUR,inpatient,80000
+HERNIA,Hernia repair,surgery,intermediate,DEP-GSUR,inpatient,70000
+CATARACT,Cataract surgery (per eye),surgery,minor,DEP-OPHT,daycare,35000
+ANGIO,Coronary angiography,procedure,,DEP-CARD,inpatient,25000

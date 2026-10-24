@@ -1,0 +1,207 @@
+bill_id,patient_id,treatment_id,surgery_id,bill_date,bill_type,description,amount,insurance_plan_id,claim_status,insurance_amount,patient_amount,payment_method,amount_paid,balance_due,payment_status
+B001,P034,T001,,2026-07-18,voided,Chemotherapy - Basic screening,3941.97,,not_applicable,0,0,Insurance,0,0,Voided
+B002,P032,T002,,2026-05-18,voided,MRI - Advanced protocol,4158.44,,not_applicable,0,0,Insurance,0,0,Voided
+B003,P048,T003,,2026-06-06,voided,MRI - Standard procedure,3731.55,,not_applicable,0,0,Insurance,0,0,Voided
+B004,P025,T004,,2026-08-10,voided,MRI - Basic screening,4799.86,,not_applicable,0,0,Insurance,0,0,Voided
+B005,P040,T005,,2026-06-14,voided,ECG - Standard procedure,582.05,,not_applicable,0,0,Credit Card,0,0,Voided
+B006,P045,T006,,2026-05-28,voided,Chemotherapy - Standard procedure,1381.0,,not_applicable,0,0,Insurance,0,0,Voided
+B007,P001,T007,,2026-03-18,final,Chemotherapy - Advanced protocol,534.03,,not_claimed,0.0,534.03,Cash,0,534.03,Failed
+B008,P016,T008,,2026-05-02,voided,Physiotherapy - Basic screening,3413.64,,not_applicable,0,0,Cash,0,0,Voided
+B009,P039,T009,,2026-02-11,final,Physiotherapy - Standard procedure,4541.14,,not_claimed,0.0,4541.14,Credit Card,4541.14,0.0,Paid
+B010,P005,T010,,2025-12-22,final,Physiotherapy - Standard procedure,1595.67,,not_claimed,0.0,1595.67,Cash,1595.67,0.0,Paid
+B011,P022,T011,,2026-10-21,voided,MRI - Basic screening,4671.66,,not_applicable,0,0,Cash,0,0,Voided
+B012,P029,T012,,2026-04-15,final,Chemotherapy - Standard procedure,771.2,HI-FAMILY,approved,694.08,77.12,Insurance,0,77.12,Pending
+B013,P003,T013,,2026-07-25,final,MRI - Standard procedure,4704.96,,not_claimed,0.0,4704.96,Cash,4704.96,0.0,Paid
+B014,P012,T014,,2026-05-03,voided,ECG - Basic screening,2082.3,,not_applicable,0,0,Credit Card,0,0,Voided
+B015,P026,T015,,2025-12-24,voided,Physiotherapy - Basic screening,956.39,,not_applicable,0,0,Insurance,0,0,Voided
+B016,P016,T016,,2026-06-08,voided,MRI - Basic screening,2686.42,,not_applicable,0,0,Insurance,0,0,Voided
+B017,P037,T017,,2026-06-19,final,MRI - Basic screening,1655.49,,not_claimed,0.0,1655.49,Credit Card,0,1655.49,Pending
+B018,P022,T018,,2026-10-23,voided,ECG - Advanced protocol,1781.93,,not_applicable,0,0,Insurance,0,0,Voided
+B019,P029,T019,,2026-01-15,voided,X-Ray - Basic screening,1882.8,,not_applicable,0,0,Insurance,0,0,Voided
+B020,P014,T020,,2026-11-13,estimate,Chemotherapy - Advanced protocol,4113.62,,not_claimed,0.0,4113.62,Credit Card,0,0,Not Due
+B021,P028,T021,,2026-04-02,voided,X-Ray - Advanced protocol,2926.23,,not_applicable,0,0,Insurance,0,0,Voided
+B022,P005,T022,,2026-10-23,voided,Physiotherapy - Advanced protocol,1900.88,,not_applicable,0,0,Credit Card,0,0,Voided
+B023,P047,T023,,2026-04-17,voided,MRI - Standard procedure,3246.5,,not_applicable,0,0,Credit Card,0,0,Voided
+B024,P049,T024,,2026-05-30,final,ECG - Advanced protocol,3722.68,,not_claimed,0.0,3722.68,Cash,0,3722.68,Pending
+B025,P030,T025,,2026-02-03,voided,ECG - Advanced protocol,1726.81,,not_applicable,0,0,Cash,0,0,Voided
+B026,P046,T026,,2026-02-23,voided,Chemotherapy - Standard procedure,2360.97,,not_applicable,0,0,Insurance,0,0,Voided
+B027,P005,T027,,2026-10-23,final,X-Ray - Standard procedure,1048.49,MC-PREMIUM,rejected,0.0,1048.49,Insurance,0,1048.49,Pending
+B028,P012,T028,,2026-10-07,voided,Chemotherapy - Standard procedure,1315.17,,not_applicable,0,0,Credit Card,0,0,Voided
+B029,P016,T029,,2026-06-03,final,MRI - Basic screening,3565.03,PS-CLASSIC,rejected,0.0,3565.03,Insurance,3565.03,0.0,Paid
+B030,P026,T030,,2026-08-07,final,Chemotherapy - Standard procedure,1316.47,,not_claimed,0.0,1316.47,Credit Card,0,1316.47,Pending
+B031,P026,T031,,2026-03-13,final,ECG - Standard procedure,2863.24,,not_claimed,0.0,2863.24,Credit Card,0,2863.24,Pending
+B032,P048,T032,,2026-10-15,voided,ECG - Advanced protocol,3690.71,,not_applicable,0,0,Insurance,0,0,Voided
+B033,P021,T033,,2026-09-01,voided,Physiotherapy - Standard procedure,980.95,,not_applicable,0,0,Credit Card,0,0,Voided
+B034,P039,T034,,2026-05-22,voided,Physiotherapy - Basic screening,3052.9,,not_applicable,0,0,Cash,0,0,Voided
+B035,P036,T035,,2026-03-27,final,MRI - Standard procedure,1654.53,MC-BASIC,rejected,0.0,1654.53,Insurance,0,1654.53,Failed
+B036,P033,T036,,2025-12-17,voided,X-Ray - Basic screening,4833.17,,not_applicable,0,0,Cash,0,0,Voided
+B037,P030,T037,,2026-03-06,final,Chemotherapy - Standard procedure,2675.96,PS-CLASSIC,approved,2006.97,668.99,Insurance,0,668.99,Failed
+B038,P037,T038,,2026-02-01,final,MRI - Standard procedure,4126.97,,not_claimed,0.0,4126.97,Credit Card,0,4126.97,Failed
+B039,P023,T039,,2026-03-26,final,Physiotherapy - Standard procedure,2976.02,WC-SILVER,rejected,0.0,2976.02,Insurance,0,2976.02,Failed
+B040,P010,T040,,2026-03-05,final,Chemotherapy - Standard procedure,695.36,,not_claimed,0.0,695.36,Cash,0,695.36,Failed
+B041,P005,T041,,2025-12-10,voided,Physiotherapy - Basic screening,3349.18,,not_applicable,0,0,Credit Card,0,0,Voided
+B042,P036,T042,,2026-02-27,voided,Chemotherapy - Basic screening,4781.32,,not_applicable,0,0,Insurance,0,0,Voided
+B043,P034,T043,,2026-03-07,voided,X-Ray - Advanced protocol,3207.25,,not_applicable,0,0,Insurance,0,0,Voided
+B044,P031,T044,,2026-08-29,final,MRI - Basic screening,4186.35,WC-GOLD,approved,4186.35,0.0,Insurance,0.0,0.0,Paid
+B045,P010,T045,,2026-09-06,final,Chemotherapy - Standard procedure,4478.93,,not_claimed,0.0,4478.93,Cash,4478.93,0.0,Paid
+B046,P019,T046,,2026-11-28,voided,ECG - Advanced protocol,1526.36,,not_applicable,0,0,Cash,0,0,Voided
+B047,P032,T047,,2026-04-10,final,ECG - Advanced protocol,1454.2,MC-BASIC,rejected,0.0,1454.2,Insurance,0,1454.2,Failed
+B048,P001,T048,,2025-12-25,voided,Chemotherapy - Advanced protocol,3249.41,,not_applicable,0,0,Credit Card,0,0,Voided
+B049,P005,T049,,2026-04-08,voided,Chemotherapy - Standard procedure,2349.63,,not_applicable,0,0,Credit Card,0,0,Voided
+B050,P045,T050,,2026-07-25,voided,Chemotherapy - Basic screening,4279.38,,not_applicable,0,0,Cash,0,0,Voided
+B051,P004,T051,,2026-01-13,final,ECG - Standard procedure,4550.1,,not_claimed,0.0,4550.1,Credit Card,0,4550.1,Failed
+B052,P016,T052,,2026-06-20,voided,ECG - Advanced protocol,2090.4,,not_applicable,0,0,Cash,0,0,Voided
+B053,P024,T053,,2026-01-21,voided,Chemotherapy - Standard procedure,1565.92,,not_applicable,0,0,Insurance,0,0,Voided
+B054,P016,T054,,2026-11-24,estimate,Physiotherapy - Standard procedure,4012.36,,not_claimed,0.0,4012.36,Cash,0,0,Not Due
+B055,P002,T055,,2026-09-14,final,Physiotherapy - Basic screening,1736.63,,not_claimed,0.0,1736.63,Cash,0,1736.63,Failed
+B056,P049,T056,,2025-12-11,voided,X-Ray - Basic screening,4201.76,,not_applicable,0,0,Insurance,0,0,Voided
+B057,P028,T057,,2026-03-24,final,MRI - Advanced protocol,2406.82,,not_claimed,0.0,2406.82,Credit Card,2406.82,0.0,Paid
+B058,P032,T058,,2026-04-17,voided,Physiotherapy - Standard procedure,3503.97,,not_applicable,0,0,Cash,0,0,Voided
+B059,P027,T059,,2026-02-15,voided,ECG - Standard procedure,929.91,,not_applicable,0,0,Cash,0,0,Voided
+B060,P020,T060,,2026-10-31,estimate,Physiotherapy - Basic screening,3307.37,MC-BASIC,estimate,0.0,3307.37,Insurance,0,0,Not Due
+B061,P024,T061,,2025-12-24,voided,X-Ray - Standard procedure,2532.95,,not_applicable,0,0,Credit Card,0,0,Voided
+B062,P012,T062,,2026-05-23,voided,X-Ray - Standard procedure,3139.74,,not_applicable,0,0,Cash,0,0,Voided
+B063,P050,T063,,2026-06-07,final,MRI - Standard procedure,1256.06,WC-SILVER,rejected,0.0,1256.06,Insurance,0,1256.06,Failed
+B064,P035,T064,,2026-05-09,voided,Physiotherapy - Basic screening,3815.93,,not_applicable,0,0,Cash,0,0,Voided
+B065,P033,T065,,2026-04-02,voided,ECG - Advanced protocol,4382.59,,not_applicable,0,0,Insurance,0,0,Voided
+B066,P033,T066,,2026-04-18,voided,ECG - Advanced protocol,1475.33,,not_applicable,0,0,Credit Card,0,0,Voided
+B067,P043,T067,,2026-07-19,final,Chemotherapy - Standard procedure,930.72,,not_claimed,0.0,930.72,Credit Card,0,930.72,Pending
+B068,P037,T068,,2026-02-20,final,ECG - Advanced protocol,606.37,,not_claimed,0.0,606.37,Credit Card,0,606.37,Failed
+B069,P012,T069,,2026-03-07,voided,MRI - Basic screening,3388.87,,not_applicable,0,0,Credit Card,0,0,Voided
+B070,P003,T070,,2026-08-04,voided,MRI - Basic screening,3231.92,,not_applicable,0,0,Cash,0,0,Voided
+B071,P001,T071,,2026-01-04,voided,ECG - Advanced protocol,2960.14,,not_applicable,0,0,Cash,0,0,Voided
+B072,P033,T072,,2026-05-21,final,ECG - Advanced protocol,1543.76,,not_claimed,0.0,1543.76,Credit Card,0,1543.76,Pending
+B073,P040,T073,,2026-12-02,estimate,Chemotherapy - Standard procedure,2259.08,,not_claimed,0.0,2259.08,Credit Card,0,0,Not Due
+B074,P010,T074,,2026-07-01,voided,ECG - Advanced protocol,3175.14,,not_applicable,0,0,Credit Card,0,0,Voided
+B075,P043,T075,,2026-04-16,voided,Chemotherapy - Standard procedure,2735.45,,not_applicable,0,0,Cash,0,0,Voided
+B076,P044,T076,,2026-11-05,voided,Chemotherapy - Standard procedure,4945.03,,not_applicable,0,0,Credit Card,0,0,Voided
+B077,P029,T077,,2026-11-22,estimate,ECG - Basic screening,1113.98,,not_claimed,0.0,1113.98,Credit Card,0,0,Not Due
+B078,P013,T078,,2026-08-26,voided,X-Ray - Basic screening,3628.15,,not_applicable,0,0,Credit Card,0,0,Voided
+B079,P012,T079,,2026-12-04,voided,X-Ray - Basic screening,2319.43,,not_applicable,0,0,Insurance,0,0,Voided
+B080,P031,T080,,2026-06-04,voided,Chemotherapy - Basic screening,2426.9,,not_applicable,0,0,Credit Card,0,0,Voided
+B081,P046,T081,,2025-12-15,voided,ECG - Advanced protocol,3729.19,,not_applicable,0,0,Insurance,0,0,Voided
+B082,P002,T082,,2025-12-29,final,X-Ray - Basic screening,3615.96,PS-CLASSIC,rejected,0.0,3615.96,Insurance,0,3615.96,Pending
+B083,P050,T083,,2026-10-16,final,ECG - Advanced protocol,4960.65,,not_claimed,0.0,4960.65,Credit Card,0,4960.65,Pending
+B084,P035,T084,,2026-05-09,final,ECG - Basic screening,1077.77,MC-PREMIUM,rejected,0.0,1077.77,Insurance,0,1077.77,Pending
+B085,P023,T085,,2026-01-27,voided,ECG - Advanced protocol,968.49,,not_applicable,0,0,Credit Card,0,0,Voided
+B086,P017,T086,,2026-10-07,voided,Physiotherapy - Standard procedure,3759.52,,not_applicable,0,0,Cash,0,0,Voided
+B087,P026,T087,,2026-09-27,voided,ECG - Advanced protocol,3102.74,,not_applicable,0,0,Cash,0,0,Voided
+B088,P008,T088,,2026-04-10,final,Physiotherapy - Advanced protocol,1733.72,,not_claimed,0.0,1733.72,Cash,1733.72,0.0,Paid
+B089,P029,T089,,2026-01-23,final,Chemotherapy - Basic screening,857.39,,not_claimed,0.0,857.39,Cash,0,857.39,Pending
+B090,P026,T090,,2026-05-10,voided,X-Ray - Advanced protocol,885.46,,not_applicable,0,0,Insurance,0,0,Voided
+B091,P010,T091,,2026-05-20,voided,X-Ray - Standard procedure,4523.86,,not_applicable,0,0,Credit Card,0,0,Voided
+B092,P026,T092,,2026-01-08,final,X-Ray - Standard procedure,1363.4,,not_claimed,0.0,1363.4,Credit Card,0,1363.4,Failed
+B093,P034,T093,,2026-03-18,final,X-Ray - Basic screening,1955.17,,not_claimed,0.0,1955.17,Credit Card,0,1955.17,Failed
+B094,P041,T094,,2026-03-17,voided,X-Ray - Standard procedure,1519.95,,not_applicable,0,0,Cash,0,0,Voided
+B095,P007,T095,,2026-04-17,voided,X-Ray - Advanced protocol,2097.48,,not_applicable,0,0,Cash,0,0,Voided
+B096,P004,T096,,2026-06-15,final,X-Ray - Standard procedure,812.41,,not_claimed,0.0,812.41,Credit Card,0,812.41,Pending
+B097,P050,T097,,2026-04-14,voided,Chemotherapy - Basic screening,2835.77,,not_applicable,0,0,Cash,0,0,Voided
+B098,P045,T098,,2026-02-23,final,ECG - Advanced protocol,804.26,,not_claimed,0.0,804.26,Credit Card,804.26,0.0,Paid
+B099,P011,T099,,2026-06-12,final,MRI - Basic screening,4101.6,,not_claimed,0.0,4101.6,Credit Card,0,4101.6,Pending
+B100,P029,T100,,2026-02-08,final,Physiotherapy - Advanced protocol,1551.7,,not_claimed,0.0,1551.7,Credit Card,0,1551.7,Failed
+B101,P036,T101,,2026-08-30,final,MRI - Standard procedure,2930.05,,not_claimed,0.0,2930.05,Credit Card,2930.05,0.0,Paid
+B102,P025,T102,,2026-10-03,voided,MRI - Basic screening,4460.36,,not_applicable,0,0,Credit Card,0,0,Voided
+B103,P021,T103,,2026-01-02,voided,ECG - Basic screening,3428.95,,not_applicable,0,0,Credit Card,0,0,Voided
+B104,P036,T104,,2026-03-27,final,ECG - Advanced protocol,2898.31,,not_claimed,0.0,2898.31,Credit Card,0,2898.31,Failed
+B105,P010,T105,,2026-07-23,voided,ECG - Basic screening,1959.5,,not_applicable,0,0,Cash,0,0,Voided
+B106,P037,T106,,2026-10-07,final,X-Ray - Advanced protocol,1998.51,,not_claimed,0.0,1998.51,Credit Card,1998.51,0.0,Paid
+B107,P009,T107,,2026-03-26,final,Chemotherapy - Advanced protocol,3512.69,,not_claimed,0.0,3512.69,Credit Card,0,3512.69,Pending
+B108,P024,T108,,2026-03-30,voided,X-Ray - Advanced protocol,4973.63,,not_applicable,0,0,Cash,0,0,Voided
+B109,P035,T109,,2026-07-07,final,Chemotherapy - Advanced protocol,3478.28,,not_claimed,0.0,3478.28,Cash,0,3478.28,Pending
+B110,P049,T110,,2026-06-27,final,Chemotherapy - Standard procedure,3010.03,,not_claimed,0.0,3010.03,Cash,0,3010.03,Failed
+B111,P035,T111,,2026-04-30,final,MRI - Advanced protocol,3787.93,,not_claimed,0.0,3787.93,Credit Card,3787.93,0.0,Paid
+B112,P048,T112,,2025-12-20,voided,MRI - Basic screening,2593.43,,not_applicable,0,0,Insurance,0,0,Voided
+B113,P036,T113,,2026-11-02,voided,Chemotherapy - Standard procedure,770.64,,not_applicable,0,0,Insurance,0,0,Voided
+B114,P018,T114,,2026-07-17,final,Chemotherapy - Basic screening,3030.34,,not_claimed,0.0,3030.34,Cash,0,3030.34,Pending
+B115,P049,T115,,2026-10-03,voided,X-Ray - Standard procedure,4809.31,,not_applicable,0,0,Insurance,0,0,Voided
+B116,P039,T116,,2026-06-15,voided,X-Ray - Advanced protocol,1288.86,,not_applicable,0,0,Cash,0,0,Voided
+B117,P032,T117,,2026-05-29,voided,MRI - Standard procedure,3605.02,,not_applicable,0,0,Credit Card,0,0,Voided
+B118,P024,T118,,2026-07-18,final,ECG - Standard procedure,1404.2,WC-GOLD,approved,1404.2,0.0,Insurance,0.0,0.0,Paid
+B119,P023,T119,,2026-11-26,voided,Chemotherapy - Basic screening,2911.22,,not_applicable,0,0,Credit Card,0,0,Voided
+B120,P032,T120,,2026-11-16,estimate,X-Ray - Basic screening,935.04,MC-BASIC,estimate,0.0,935.04,Insurance,0,0,Not Due
+B121,P037,T121,,2026-03-16,final,MRI - Advanced protocol,2526.67,,not_claimed,0.0,2526.67,Credit Card,0,2526.67,Pending
+B122,P012,T122,,2026-06-19,voided,X-Ray - Standard procedure,3902.73,,not_applicable,0,0,Insurance,0,0,Voided
+B123,P049,T123,,2026-02-06,final,Chemotherapy - Standard procedure,2064.07,,not_claimed,0.0,2064.07,Credit Card,2064.07,0.0,Paid
+B124,P013,T124,,2026-02-22,voided,Chemotherapy - Standard procedure,3492.1,,not_applicable,0,0,Credit Card,0,0,Voided
+B125,P023,T125,,2026-01-27,final,Physiotherapy - Advanced protocol,4079.52,WC-SILVER,rejected,0.0,4079.52,Insurance,0,4079.52,Failed
+B126,P025,T126,,2026-10-11,final,ECG - Advanced protocol,4672.3,,not_claimed,0.0,4672.3,Credit Card,0,4672.3,Pending
+B127,P035,T127,,2026-10-22,voided,Physiotherapy - Advanced protocol,1555.89,,not_applicable,0,0,Credit Card,0,0,Voided
+B128,P041,T128,,2026-03-24,final,MRI - Advanced protocol,2296.92,,not_claimed,0.0,2296.92,Credit Card,0,2296.92,Pending
+B129,P030,T129,,2026-08-03,voided,X-Ray - Advanced protocol,1185.87,,not_applicable,0,0,Insurance,0,0,Voided
+B130,P017,T130,,2026-02-01,voided,MRI - Basic screening,4966.18,,not_applicable,0,0,Insurance,0,0,Voided
+B131,P049,T131,,2026-04-19,voided,Chemotherapy - Standard procedure,4671.5,,not_applicable,0,0,Credit Card,0,0,Voided
+B132,P020,T132,,2026-07-04,voided,Physiotherapy - Standard procedure,2929.81,,not_applicable,0,0,Credit Card,0,0,Voided
+B133,P048,T133,,2026-03-01,final,Physiotherapy - Standard procedure,4289.15,PS-CLASSIC,rejected,0.0,4289.15,Insurance,4289.15,0.0,Paid
+B134,P025,T134,,2026-09-25,final,Physiotherapy - Standard procedure,2844.31,HI-FAMILY,approved,2844.31,0.0,Insurance,0.0,0.0,Paid
+B135,P022,T135,,2026-08-18,voided,MRI - Standard procedure,3306.14,,not_applicable,0,0,Credit Card,0,0,Voided
+B136,P013,T136,,2026-04-21,final,Chemotherapy - Standard procedure,901.06,,not_claimed,0.0,901.06,Credit Card,0,901.06,Failed
+B137,P019,T137,,2026-10-03,voided,X-Ray - Standard procedure,3898.72,,not_applicable,0,0,Credit Card,0,0,Voided
+B138,P049,T138,,2026-12-04,estimate,X-Ray - Standard procedure,1074.71,,not_claimed,0.0,1074.71,Cash,0,0,Not Due
+B139,P036,T139,,2026-09-18,voided,MRI - Basic screening,4217.3,,not_applicable,0,0,Insurance,0,0,Voided
+B140,P012,T140,,2026-01-14,voided,Physiotherapy - Standard procedure,4019.13,,not_applicable,0,0,Cash,0,0,Voided
+B141,P041,T141,,2026-05-24,final,ECG - Basic screening,3689.35,WC-SILVER,rejected,0.0,3689.35,Insurance,0,3689.35,Pending
+B142,P019,T142,,2026-10-10,voided,MRI - Advanced protocol,662.72,,not_applicable,0,0,Insurance,0,0,Voided
+B143,P012,T143,,2026-08-30,voided,MRI - Standard procedure,1864.08,,not_applicable,0,0,Insurance,0,0,Voided
+B144,P009,T144,,2026-07-25,voided,Chemotherapy - Advanced protocol,1684.01,,not_applicable,0,0,Insurance,0,0,Voided
+B145,P007,T145,,2026-10-20,final,X-Ray - Advanced protocol,2120.61,MC-PREMIUM,rejected,0.0,2120.61,Insurance,2120.61,0.0,Paid
+B146,P028,T146,,2025-12-14,voided,MRI - Advanced protocol,894.39,,not_applicable,0,0,Insurance,0,0,Voided
+B147,P014,T147,,2026-10-22,final,MRI - Basic screening,4716.31,MC-BASIC,rejected,0.0,4716.31,Insurance,0,4716.31,Failed
+B148,P031,T148,,2026-11-14,estimate,Physiotherapy - Advanced protocol,2992.11,,not_claimed,0.0,2992.11,Cash,0,0,Not Due
+B149,P019,T149,,2026-07-04,final,Physiotherapy - Advanced protocol,1874.86,,not_claimed,0.0,1874.86,Credit Card,0,1874.86,Failed
+B150,P047,T150,,2026-07-25,final,ECG - Advanced protocol,2286.42,,not_claimed,0.0,2286.42,Credit Card,2286.42,0.0,Paid
+B151,P016,T151,,2026-01-06,final,Chemotherapy - Standard procedure,2512.41,,not_claimed,0.0,2512.41,Cash,0,2512.41,Pending
+B152,P005,T152,,2026-03-23,final,ECG - Standard procedure,3202.67,,not_claimed,0.0,3202.67,Cash,0,3202.67,Failed
+B153,P035,T153,,2026-06-16,final,Physiotherapy - Basic screening,2820.56,,not_claimed,0.0,2820.56,Cash,2820.56,0.0,Paid
+B154,P012,T154,,2026-02-12,voided,X-Ray - Basic screening,4637.26,,not_applicable,0,0,Cash,0,0,Voided
+B155,P025,T155,,2025-12-12,voided,Physiotherapy - Standard procedure,2736.34,,not_applicable,0,0,Insurance,0,0,Voided
+B156,P021,T156,,2026-10-31,estimate,Chemotherapy - Basic screening,4964.71,,not_claimed,0.0,4964.71,Credit Card,0,0,Not Due
+B157,P036,T157,,2026-04-20,final,Physiotherapy - Standard procedure,4331.41,MC-BASIC,rejected,0.0,4331.41,Insurance,0,4331.41,Failed
+B158,P023,T158,,2026-06-20,final,Chemotherapy - Advanced protocol,1438.3,,not_claimed,0.0,1438.3,Credit Card,1438.3,0.0,Paid
+B159,P016,T159,,2026-03-17,voided,Chemotherapy - Advanced protocol,4687.68,,not_applicable,0,0,Credit Card,0,0,Voided
+B160,P039,T160,,2026-11-25,voided,Chemotherapy - Basic screening,1023.65,,not_applicable,0,0,Cash,0,0,Voided
+B161,P045,T161,,2026-05-26,final,Chemotherapy - Standard procedure,4178.52,MC-PREMIUM,approved,3760.67,417.85,Insurance,417.85,0.0,Paid
+B162,P042,T162,,2025-12-10,voided,Chemotherapy - Standard procedure,2212.8,,not_applicable,0,0,Cash,0,0,Voided
+B163,P039,T163,,2026-06-05,voided,X-Ray - Basic screening,4450.88,,not_applicable,0,0,Insurance,0,0,Voided
+B164,P014,T164,,2026-07-06,voided,ECG - Standard procedure,4406.26,,not_applicable,0,0,Credit Card,0,0,Voided
+B165,P031,T165,,2026-03-13,voided,MRI - Advanced protocol,4126.66,,not_applicable,0,0,Cash,0,0,Voided
+B166,P005,T166,,2025-12-21,voided,ECG - Basic screening,4055.14,,not_applicable,0,0,Cash,0,0,Voided
+B167,P035,T167,,2026-10-24,estimate,Chemotherapy - Basic screening,1871.06,,not_claimed,0.0,1871.06,Credit Card,0,0,Not Due
+B168,P023,T168,,2026-09-07,voided,X-Ray - Standard procedure,864.14,,not_applicable,0,0,Credit Card,0,0,Voided
+B169,P029,T169,,2026-07-02,voided,Physiotherapy - Basic screening,2313.41,,not_applicable,0,0,Credit Card,0,0,Voided
+B170,P043,T170,,2026-02-09,final,X-Ray - Standard procedure,1280.86,,not_claimed,0.0,1280.86,Cash,0,1280.86,Failed
+B171,P011,T171,,2026-03-27,voided,Chemotherapy - Standard procedure,3627.28,,not_applicable,0,0,Insurance,0,0,Voided
+B172,P018,T172,,2026-02-15,final,X-Ray - Standard procedure,2057.45,,not_claimed,0.0,2057.45,Cash,2057.45,0.0,Paid
+B173,P047,T173,,2026-05-13,final,X-Ray - Standard procedure,4890.25,WC-SILVER,rejected,0.0,4890.25,Insurance,0,4890.25,Pending
+B174,P012,T174,,2026-10-09,voided,Chemotherapy - Standard procedure,3384.37,,not_applicable,0,0,Cash,0,0,Voided
+B175,P009,T175,,2026-09-30,voided,X-Ray - Basic screening,4201.16,,not_applicable,0,0,Cash,0,0,Voided
+B176,P010,T176,,2026-04-04,voided,MRI - Advanced protocol,1096.36,,not_applicable,0,0,Credit Card,0,0,Voided
+B177,P044,T177,,2026-07-25,voided,MRI - Advanced protocol,4379.07,,not_applicable,0,0,Insurance,0,0,Voided
+B178,P017,T178,,2025-12-26,voided,X-Ray - Basic screening,4652.41,,not_applicable,0,0,Cash,0,0,Voided
+B179,P038,T179,,2026-02-14,final,Physiotherapy - Basic screening,2691.78,,not_claimed,0.0,2691.78,Cash,0,2691.78,Failed
+B180,P007,T180,,2025-12-16,voided,Chemotherapy - Advanced protocol,3228.14,,not_applicable,0,0,Credit Card,0,0,Voided
+B181,P046,T181,,2026-08-12,final,MRI - Advanced protocol,3941.64,,not_claimed,0.0,3941.64,Credit Card,0,3941.64,Failed
+B182,P013,T182,,2026-03-21,final,Physiotherapy - Advanced protocol,1286.77,WC-GOLD,approved,1286.77,0.0,Insurance,0.0,0.0,Paid
+B183,P040,T183,,2026-01-12,final,X-Ray - Advanced protocol,2761.55,,not_claimed,0.0,2761.55,Cash,0,2761.55,Pending
+B184,P042,T184,,2026-02-04,final,Physiotherapy - Advanced protocol,2293.98,MC-BASIC,rejected,0.0,2293.98,Insurance,0,2293.98,Pending
+B185,P009,T185,,2026-02-27,final,ECG - Standard procedure,1158.68,,not_claimed,0.0,1158.68,Cash,0,1158.68,Pending
+B186,P050,T186,,2026-03-05,voided,MRI - Basic screening,2153.9,,not_applicable,0,0,Insurance,0,0,Voided
+B187,P027,T187,,2026-01-22,final,X-Ray - Standard procedure,806.78,,not_claimed,0.0,806.78,Credit Card,0,806.78,Pending
+B188,P002,T188,,2026-03-21,voided,Chemotherapy - Advanced protocol,616.15,,not_applicable,0,0,Cash,0,0,Voided
+B189,P005,T189,,2026-09-13,final,X-Ray - Advanced protocol,1108.25,MC-PREMIUM,rejected,0.0,1108.25,Insurance,0,1108.25,Failed
+B190,P029,T190,,2026-10-25,estimate,Chemotherapy - Advanced protocol,4834.02,,not_claimed,0.0,4834.02,Credit Card,0,0,Not Due
+B191,P037,T191,,2026-03-21,voided,X-Ray - Standard procedure,2972.88,,not_applicable,0,0,Credit Card,0,0,Voided
+B192,P038,T192,,2026-08-09,voided,Physiotherapy - Standard procedure,4846.2,,not_applicable,0,0,Insurance,0,0,Voided
+B193,P019,T193,,2026-08-24,voided,Physiotherapy - Advanced protocol,2446.24,,not_applicable,0,0,Cash,0,0,Voided
+B194,P008,T194,,2026-03-15,final,Physiotherapy - Standard procedure,1903.17,,not_claimed,0.0,1903.17,Cash,0,1903.17,Pending
+B195,P048,T195,,2026-07-28,final,ECG - Standard procedure,2777.64,,not_claimed,0.0,2777.64,Credit Card,0,2777.64,Failed
+B196,P045,T196,,2026-10-04,voided,Chemotherapy - Advanced protocol,2477.8,,not_applicable,0,0,Cash,0,0,Voided
+B197,P001,T197,,2026-03-10,voided,Physiotherapy - Standard procedure,975.49,,not_applicable,0,0,Cash,0,0,Voided
+B198,P022,T198,,2026-04-23,voided,ECG - Basic screening,3383.72,,not_applicable,0,0,Cash,0,0,Voided
+B199,P017,T199,,2026-04-09,final,Chemotherapy - Basic screening,1472.17,,not_claimed,0.0,1472.17,Credit Card,1472.17,0.0,Paid
+B200,P007,T200,,2026-12-08,voided,X-Ray - Basic screening,3288.15,,not_applicable,0,0,Insurance,0,0,Voided
+B201,P051,T201,,2026-10-04,final,MRI right knee,5000.0,WC-GOLD,approved,5000.0,0.0,Insurance,0,0.0,Paid
+B202,P051,,S001,2026-10-10,estimate,"Estimate: total knee replacement (Gold: Rs 2,50,000 sub-limit, 20% co-pay)",285000.0,WC-GOLD,estimate,200000.0,85000.0,Insurance,0,0,Not Due
+B203,P054,,S002,2026-10-18,estimate,Estimate: laparoscopic cholecystectomy (Gold: 10% co-pay),95000.0,WC-GOLD,estimate,85500.0,9500.0,Insurance,0,0,Not Due
+B204,P057,,S004,2026-09-26,final,"Emergency laparoscopic appendectomy (self-pay, Rs 50,000 deposit paid)",82500.0,,not_claimed,0.0,82500.0,Credit Card,50000.0,32500.0,Partially Paid
+B205,P058,,S005,2026-10-22,estimate,"Estimate: cataract surgery, SHAS package rate",15000.0,SHAS,estimate,15000.0,0.0,Government scheme,0,0,Not Due
+B206,P060,,S006,2026-10-12,final,"Total knee replacement (deposit Rs 1,07,000 paid; Rs 12,000 excess refunded)",295000.0,WC-GOLD,approved,200000.0,95000.0,Insurance,95000.0,0.0,Paid

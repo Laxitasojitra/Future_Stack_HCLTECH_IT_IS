@@ -1,0 +1,8 @@
+plan_id,provider,plan_name,plan_type,sum_insured_inr,room_rent_limit_pct,agreement_doc_id,preauth_lead_days,preauth_decision_days
+WC-SILVER,WellnessCorp,WellnessCorp Silver,private_insurance,500000,1,INS-AGR-WC-2026,7,3
+WC-GOLD,WellnessCorp,WellnessCorp Gold,private_insurance,1000000,1,INS-AGR-WC-2026,7,3
+MC-BASIC,MedCare Plus,MedCare Plus Basic,private_insurance,300000,,INS-AGR-MC-2026,5,2
+MC-PREMIUM,MedCare Plus,MedCare Plus Premium,private_insurance,700000,,INS-AGR-MC-2026,5,2
+PS-CLASSIC,PulseSecure,PulseSecure Classic,private_insurance,400000,,INS-AGR-PS-2026,7,3
+HI-FAMILY,HealthIndia,HealthIndia Family Floater,private_insurance,600000,,INS-AGR-HI-2026,5,2
+SHAS,State Health Assurance Scheme,State Health Assurance Scheme,government_scheme,500000,,GOV-SCH-2026,0,
