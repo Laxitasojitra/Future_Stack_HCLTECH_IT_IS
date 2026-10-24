@@ -1,0 +1,95 @@
+item_id,care_plan_id,patient_id,item_type,description,due_date,status,completed_date,linked_appointment_id
+CPI0001,CP001,P001,chemotherapy,Chemotherapy session 1,2025-12-25,cancelled,,A048
+CPI0002,CP001,P001,chemotherapy,Chemotherapy session 2,2026-03-18,done,2026-03-18,A007
+CPI0003,CP002,P001,physiotherapy,Physiotherapy session 1,2026-03-10,missed,,A197
+CPI0004,CP003,P002,chemotherapy,Chemotherapy session 1,2026-03-21,cancelled,,A188
+CPI0005,CP004,P002,physiotherapy,Physiotherapy session 1,2026-09-14,done,2026-09-14,A055
+CPI0006,CP005,P005,chemotherapy,Chemotherapy session 1,2026-04-08,missed,,A049
+CPI0007,CP006,P005,physiotherapy,Physiotherapy session 1,2025-12-10,missed,,A041
+CPI0008,CP006,P005,physiotherapy,Physiotherapy session 2,2025-12-22,done,2025-12-22,A010
+CPI0009,CP006,P005,physiotherapy,Physiotherapy session 3,2026-10-23,missed,,A022
+CPI0010,CP007,P007,chemotherapy,Chemotherapy session 1,2025-12-16,cancelled,,A180
+CPI0011,CP008,P008,physiotherapy,Physiotherapy session 1,2026-03-15,done,2026-03-15,A194
+CPI0012,CP008,P008,physiotherapy,Physiotherapy session 2,2026-04-10,done,2026-04-10,A088
+CPI0013,CP009,P009,chemotherapy,Chemotherapy session 1,2026-03-26,done,2026-03-26,A107
+CPI0014,CP009,P009,chemotherapy,Chemotherapy session 2,2026-07-25,missed,,A144
+CPI0015,CP010,P010,chemotherapy,Chemotherapy session 1,2026-03-05,done,2026-03-05,A040
+CPI0016,CP010,P010,chemotherapy,Chemotherapy session 2,2026-09-06,done,2026-09-06,A045
+CPI0017,CP011,P011,chemotherapy,Chemotherapy session 1,2026-03-27,cancelled,,A171
+CPI0018,CP012,P012,chemotherapy,Chemotherapy session 1,2026-10-07,missed,,A028
+CPI0019,CP012,P012,chemotherapy,Chemotherapy session 2,2026-10-09,cancelled,,A174
+CPI0020,CP013,P012,physiotherapy,Physiotherapy session 1,2026-01-14,missed,,A140
+CPI0021,CP014,P013,chemotherapy,Chemotherapy session 1,2026-02-22,cancelled,,A124
+CPI0022,CP014,P013,chemotherapy,Chemotherapy session 2,2026-04-21,done,2026-04-21,A136
+CPI0023,CP015,P013,physiotherapy,Physiotherapy session 1,2026-03-21,done,2026-03-21,A182
+CPI0024,CP016,P014,chemotherapy,Chemotherapy session 1,2026-11-13,scheduled,,A020
+CPI0025,CP017,P016,chemotherapy,Chemotherapy session 1,2026-01-06,done,2026-01-06,A151
+CPI0026,CP017,P016,chemotherapy,Chemotherapy session 2,2026-03-17,missed,,A159
+CPI0027,CP018,P016,physiotherapy,Physiotherapy session 1,2026-05-02,cancelled,,A008
+CPI0028,CP018,P016,physiotherapy,Physiotherapy session 2,2026-11-24,scheduled,,A054
+CPI0029,CP019,P017,chemotherapy,Chemotherapy session 1,2026-04-09,done,2026-04-09,A199
+CPI0030,CP020,P017,physiotherapy,Physiotherapy session 1,2026-10-07,cancelled,,A086
+CPI0031,CP021,P018,chemotherapy,Chemotherapy session 1,2026-07-17,done,2026-07-17,A114
+CPI0032,CP022,P019,physiotherapy,Physiotherapy session 1,2026-07-04,done,2026-07-04,A149
+CPI0033,CP022,P019,physiotherapy,Physiotherapy session 2,2026-08-24,cancelled,,A193
+CPI0034,CP023,P020,physiotherapy,Physiotherapy session 1,2026-07-04,cancelled,,A132
+CPI0035,CP023,P020,physiotherapy,Physiotherapy session 2,2026-10-31,scheduled,,A060
+CPI0036,CP024,P021,chemotherapy,Chemotherapy session 1,2026-10-31,scheduled,,A156
+CPI0037,CP025,P021,physiotherapy,Physiotherapy session 1,2026-09-01,missed,,A033
+CPI0038,CP026,P023,chemotherapy,Chemotherapy session 1,2026-06-20,done,2026-06-20,A158
+CPI0039,CP026,P023,chemotherapy,Chemotherapy session 2,2026-11-26,cancelled,,A119
+CPI0040,CP027,P023,physiotherapy,Physiotherapy session 1,2026-01-27,done,2026-01-27,A125
+CPI0041,CP027,P023,physiotherapy,Physiotherapy session 2,2026-03-26,done,2026-03-26,A039
+CPI0042,CP028,P024,chemotherapy,Chemotherapy session 1,2026-01-21,cancelled,,A053
+CPI0043,CP029,P025,physiotherapy,Physiotherapy session 1,2025-12-12,cancelled,,A155
+CPI0044,CP029,P025,physiotherapy,Physiotherapy session 2,2026-09-25,done,2026-09-25,A134
+CPI0045,CP030,P026,chemotherapy,Chemotherapy session 1,2026-08-07,done,2026-08-07,A030
+CPI0046,CP031,P026,physiotherapy,Physiotherapy session 1,2025-12-24,missed,,A015
+CPI0047,CP032,P029,chemotherapy,Chemotherapy session 1,2026-01-23,done,2026-01-23,A089
+CPI0048,CP032,P029,chemotherapy,Chemotherapy session 2,2026-04-15,done,2026-04-15,A012
+CPI0049,CP032,P029,chemotherapy,Chemotherapy session 3,2026-10-25,scheduled,,A190
+CPI0050,CP033,P029,physiotherapy,Physiotherapy session 1,2026-02-08,done,2026-02-08,A100
+CPI0051,CP033,P029,physiotherapy,Physiotherapy session 2,2026-07-02,cancelled,,A169
+CPI0052,CP034,P030,chemotherapy,Chemotherapy session 1,2026-03-06,done,2026-03-06,A037
+CPI0053,CP035,P031,chemotherapy,Chemotherapy session 1,2026-06-04,missed,,A080
+CPI0054,CP036,P031,physiotherapy,Physiotherapy session 1,2026-11-14,scheduled,,A148
+CPI0055,CP037,P032,physiotherapy,Physiotherapy session 1,2026-04-17,missed,,A058
+CPI0056,CP038,P034,chemotherapy,Chemotherapy session 1,2026-07-18,missed,,A001
+CPI0057,CP039,P035,chemotherapy,Chemotherapy session 1,2026-07-07,done,2026-07-07,A109
+CPI0058,CP039,P035,chemotherapy,Chemotherapy session 2,2026-10-24,scheduled,,A167
+CPI0059,CP040,P035,physiotherapy,Physiotherapy session 1,2026-05-09,cancelled,,A064
+CPI0060,CP040,P035,physiotherapy,Physiotherapy session 2,2026-06-16,done,2026-06-16,A153
+CPI0061,CP040,P035,physiotherapy,Physiotherapy session 3,2026-10-22,missed,,A127
+CPI0062,CP041,P036,chemotherapy,Chemotherapy session 1,2026-02-27,missed,,A042
+CPI0063,CP041,P036,chemotherapy,Chemotherapy session 2,2026-11-02,cancelled,,A113
+CPI0064,CP042,P036,physiotherapy,Physiotherapy session 1,2026-04-20,done,2026-04-20,A157
+CPI0065,CP043,P038,physiotherapy,Physiotherapy session 1,2026-02-14,done,2026-02-14,A179
+CPI0066,CP043,P038,physiotherapy,Physiotherapy session 2,2026-08-09,cancelled,,A192
+CPI0067,CP044,P039,chemotherapy,Chemotherapy session 1,2026-11-25,cancelled,,A160
+CPI0068,CP045,P039,physiotherapy,Physiotherapy session 1,2026-02-11,done,2026-02-11,A009
+CPI0069,CP045,P039,physiotherapy,Physiotherapy session 2,2026-05-22,missed,,A034
+CPI0070,CP046,P040,chemotherapy,Chemotherapy session 1,2026-12-02,scheduled,,A073
+CPI0071,CP047,P042,chemotherapy,Chemotherapy session 1,2025-12-10,missed,,A162
+CPI0072,CP048,P042,physiotherapy,Physiotherapy session 1,2026-02-04,done,2026-02-04,A184
+CPI0073,CP049,P043,chemotherapy,Chemotherapy session 1,2026-04-16,cancelled,,A075
+CPI0074,CP049,P043,chemotherapy,Chemotherapy session 2,2026-07-19,done,2026-07-19,A067
+CPI0075,CP050,P044,chemotherapy,Chemotherapy session 1,2026-11-05,cancelled,,A076
+CPI0076,CP051,P045,chemotherapy,Chemotherapy session 1,2026-05-26,done,2026-05-26,A161
+CPI0077,CP051,P045,chemotherapy,Chemotherapy session 2,2026-05-28,missed,,A006
+CPI0078,CP051,P045,chemotherapy,Chemotherapy session 3,2026-07-25,missed,,A050
+CPI0079,CP051,P045,chemotherapy,Chemotherapy session 4,2026-10-04,cancelled,,A196
+CPI0080,CP052,P046,chemotherapy,Chemotherapy session 1,2026-02-23,cancelled,,A026
+CPI0081,CP053,P048,physiotherapy,Physiotherapy session 1,2026-03-01,done,2026-03-01,A133
+CPI0082,CP054,P049,chemotherapy,Chemotherapy session 1,2026-02-06,done,2026-02-06,A123
+CPI0083,CP054,P049,chemotherapy,Chemotherapy session 2,2026-04-19,missed,,A131
+CPI0084,CP054,P049,chemotherapy,Chemotherapy session 3,2026-06-27,done,2026-06-27,A110
+CPI0085,CP055,P050,chemotherapy,Chemotherapy session 1,2026-04-14,missed,,A097
+CPI0086,CP056,P055,lab,HbA1c every 3 months,2026-10-21,done,2026-10-21,
+CPI0087,CP056,P055,screening,Annual diabetic eye examination,2026-09-24,missed,,
+CPI0088,CP056,P055,follow_up,Endocrinology follow-up,2026-11-07,scheduled,,A209
+CPI0089,CP057,P056,lab,Kidney function and electrolytes every 2 months,2026-10-24,done,2026-10-24,
+CPI0090,CP057,P056,follow_up,Nephrology review,2026-10-26,scheduled,,A210
+CPI0091,CP058,P060,physiotherapy,First outpatient physiotherapy session (within 7 days of discharge),2026-10-19,missed,,A216
+CPI0092,CP058,P060,wound_check,Wound check and suture removal (day 10 to 14),2026-10-22,done,2026-10-22,A215
+CPI0093,CP058,P060,physiotherapy,Physiotherapy twice weekly for 6 weeks,2026-10-25,pending,,
+CPI0094,CP058,P060,follow_up,Orthopedics follow-up,2026-11-23,scheduled,,A217

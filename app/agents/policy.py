@@ -1,6 +1,6 @@
 """Policy agent: answers policy and procedure questions from approved documents onlypython.
 
-Hybrid search -> relevance gate (not_found, R3) -> pick the best clauses -> resolve
+Hybrid search -> relevance gate  -> pick the best clauses -> resolve
 claim-level conflicts (higher authority wins; otherwise conflict_flagged) -> cite each clause
 with document, section, version and effective date (R2).
 """
