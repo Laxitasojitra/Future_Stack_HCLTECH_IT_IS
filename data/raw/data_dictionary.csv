@@ -1,0 +1,294 @@
+table,column,description
+patients,patient_id,Unique patient ID (also used as the hospital registration number / UHID).
+patients,first_name,First name.
+patients,last_name,Last name.
+patients,gender,M or F.
+patients,date_of_birth,Date of birth (YYYY-MM-DD).
+patients,age,Age in years on the build's as-of date.
+patients,contact_number,Phone number. Must be partly masked when shown (POL-PRIV-001 4.3).
+patients,email,Email address.
+patients,address,Street address.
+patients,city,City.
+patients,registration_date,Date the patient registered at the hospital.
+patients,blood_group,ABO blood group and Rh type.
+patients,insurance_provider,"WellnessCorp, MedCare Plus, PulseSecure, HealthIndia, State Health Assurance Scheme, or Self-pay."
+patients,insurance_plan_id,FK to insurance_plans.plan_id. Empty for self-pay.
+patients,insurance_number,Policy or scheme card number. Must be partly masked when shown.
+patients,policy_start_date,Start of continuous coverage; used for waiting-period checks.
+patients,is_scenario_patient,"Y for hand-built demo patients (P051-P060), N for Kaggle patients."
+patients,scenario_note,What the demo patient is designed to test.
+departments,department_id,Unique department ID.
+departments,department_name,Department name (matches doctors.specialization).
+departments,department_type,clinical or support.
+departments,location,Location on the Central Hospital campus.
+departments,front_desk_extension,Phone extension of the department front desk.
+departments,source_doc_id,Policy document the details come from.
+doctors,doctor_id,Unique doctor ID.
+doctors,first_name,First name.
+doctors,last_name,Last name.
+doctors,specialization,Specialty (matches departments.department_name).
+doctors,department_id,FK to departments.department_id.
+doctors,phone_number,Doctor's phone number.
+doctors,email,Doctor's email.
+doctors,years_experience,Years of experience.
+doctors,hospital_branch,"Central Hospital, Westside Clinic or Eastside Clinic."
+doctors,consultation_days,Working days.
+doctors,consultation_hours,Bookable hours on working days.
+doctors,consultation_fee_inr,Outpatient consultation fee in INR.
+doctor_slots,slot_id,Unique slot ID.
+doctor_slots,doctor_id,FK to doctors.doctor_id.
+doctor_slots,department_id,FK to departments.department_id.
+doctor_slots,slot_date,Date.
+doctor_slots,slot_time,Start time (HH:MM).
+doctor_slots,slot_status,"available, booked (by an appointment in appointments.csv) or blocked (doctor unavailable)."
+doctor_slots,appointment_id,FK to appointments.appointment_id when booked.
+appointments,appointment_id,Unique appointment ID.
+appointments,patient_id,FK to patients.patient_id.
+appointments,doctor_id,FK to doctors.doctor_id (the doctor who sees the patient).
+appointments,department_id,FK to departments.department_id.
+appointments,appointment_date,Date (YYYY-MM-DD).
+appointments,appointment_time,Time (HH:MM).
+appointments,reason_for_visit,"Kaggle reason (Consultation, Checkup, Follow-up, Therapy, Emergency) or scenario reason."
+appointments,appointment_type,"consultation, diagnostic, therapy, clearance or follow-up."
+appointments,status,"Scheduled (future), Completed, No-show or Cancelled."
+appointments,hospital_branch,Branch where the appointment takes place.
+appointments,location,Department location.
+treatments,treatment_id,Unique treatment ID.
+treatments,appointment_id,FK to appointments.appointment_id.
+treatments,patient_id,FK to patients.patient_id.
+treatments,treatment_type,"Kaggle treatment type (Chemotherapy, MRI, X-Ray, ECG, Physiotherapy)."
+treatments,procedure_code,FK to procedures.procedure_code.
+treatments,description,"Kaggle description (Basic screening, Standard procedure, Advanced protocol)."
+treatments,cost,Billed cost in INR.
+treatments,treatment_date,Date.
+treatments,treatment_status,"completed, planned (future appointment) or not_performed (appointment cancelled or no-show)."
+treatments,performed_by_doctor_id,FK to doctors.doctor_id.
+billing,bill_id,Unique bill ID.
+billing,patient_id,FK to patients.patient_id.
+billing,treatment_id,FK to treatments.treatment_id (empty for surgery bills).
+billing,surgery_id,FK to surgeries.surgery_id (empty for treatment bills).
+billing,bill_date,Date.
+billing,bill_type,"final, estimate (planned treatment or surgery) or voided (treatment not performed)."
+billing,description,What the bill is for.
+billing,amount,Total billed amount in INR.
+billing,insurance_plan_id,Plan the claim was made under (empty when not claimed).
+billing,claim_status,"approved, rejected (not covered or limit used), not_claimed, estimate or not_applicable."
+billing,insurance_amount,Amount payable by the insurer in INR.
+billing,patient_amount,Amount payable by the patient in INR.
+billing,payment_method,"Kaggle payment method (Insurance, Credit Card, Cash) or scenario method."
+billing,amount_paid,Amount the patient has paid in INR.
+billing,balance_due,Patient amount still unpaid in INR.
+billing,payment_status,"Paid, Pending, Failed (last payment attempt failed), Partially Paid, Not Due (estimate) or Voided."
+procedures,procedure_code,Unique procedure code.
+procedures,procedure_name,Name.
+procedures,procedure_type,"consultation, clearance, diagnostic, therapy, surgery or procedure."
+procedures,surgery_category,"minor, intermediate or major (surgeries only), as defined in PROT-PREOP-004 section 2."
+procedures,department_id,FK to departments.department_id.
+procedures,care_setting,"outpatient, daycare or inpatient."
+procedures,list_price_inr,"Standard list price in INR (estimates are non-binding, POL-BIL-003 1.2)."
+insurance_plans,plan_id,Unique plan ID.
+insurance_plans,provider,Insurer or scheme name (matches patients.insurance_provider).
+insurance_plans,plan_name,Plan name.
+insurance_plans,plan_type,private_insurance or government_scheme.
+insurance_plans,sum_insured_inr,Annual sum insured in INR.
+insurance_plans,room_rent_limit_pct,Daily room-rent limit as % of sum insured (empty if no limit).
+insurance_plans,agreement_doc_id,Policy document with the plan terms (FK to hospital_policies.doc_id).
+insurance_plans,preauth_lead_days,Days before planned surgery the pre-authorisation must be submitted.
+insurance_plans,preauth_decision_days,Working days the insurer takes to decide.
+insurance_coverage_rules,rule_id,Unique rule ID.
+insurance_coverage_rules,plan_id,FK to insurance_plans.plan_id.
+insurance_coverage_rules,procedure_code,FK to procedures.procedure_code.
+insurance_coverage_rules,covered,Y or N.
+insurance_coverage_rules,copay_pct,Patient co-payment as % of the admissible amount.
+insurance_coverage_rules,sublimit_inr,Maximum admissible amount in INR (empty if none).
+insurance_coverage_rules,package_rate_inr,Fixed package rate in INR (government scheme only).
+insurance_coverage_rules,annual_opd_limit_inr,Annual limit shared by all outpatient diagnostics and physiotherapy (empty if not applicable).
+insurance_coverage_rules,waiting_period_months,Months of continuous coverage needed before the procedure is covered.
+insurance_coverage_rules,preauth_required,Y or N.
+insurance_coverage_rules,source_doc_id,FK to hospital_policies.doc_id.
+insurance_coverage_rules,source_section,Section(s) of the source document.
+preauthorizations,preauth_id,Unique pre-authorisation ID.
+preauthorizations,patient_id,FK to patients.patient_id.
+preauthorizations,plan_id,FK to insurance_plans.plan_id.
+preauthorizations,surgery_id,FK to surgeries.surgery_id.
+preauthorizations,procedure_code,FK to procedures.procedure_code.
+preauthorizations,status,"not_submitted, submitted, approved or rejected."
+preauthorizations,submitted_date,Date submitted to the insurer.
+preauthorizations,decision_date,Date of the insurer's decision.
+preauthorizations,approved_amount_inr,Amount approved by the insurer in INR.
+preauthorizations,remarks,Notes.
+surgeries,surgery_id,Unique surgery ID.
+surgeries,patient_id,FK to patients.patient_id.
+surgeries,procedure_code,FK to procedures.procedure_code.
+surgeries,surgery_category,"minor, intermediate or major (decides the pre-op requirements)."
+surgeries,surgeon_id,FK to doctors.doctor_id.
+surgeries,anesthetist_id,FK to doctors.doctor_id.
+surgeries,scheduled_date,Surgery date.
+surgeries,scheduled_time,Surgery time.
+surgeries,admission_type,planned or emergency.
+surgeries,admission_date,Admission date.
+surgeries,discharge_date,Discharge date (completed surgeries).
+surgeries,status,"scheduled, completed or cancelled."
+surgeries,hospital_branch,Branch.
+preop_requirements,requirement_id,Unique requirement ID.
+preop_requirements,surgery_category,"minor, intermediate or major."
+preop_requirements,item_code,Item code (matches orders.item_code).
+preop_requirements,item_name,Name.
+preop_requirements,item_type,"lab, cardiac, imaging, clearance or financial."
+preop_requirements,validity_days,Result must be within this many days before surgery (empty = no expiry).
+preop_requirements,condition,When the item applies (empty = always).
+preop_requirements,auto_scheduled,Y if the hospital schedules it automatically (patient need not book).
+preop_requirements,source_doc_id,FK to hospital_policies.doc_id.
+preop_requirements,source_section,Section(s) of the protocol.
+clinical_review_thresholds,threshold_id,Unique ID.
+clinical_review_thresholds,item_code,Lab test code or ECG.
+clinical_review_thresholds,operator,Comparison operator.
+clinical_review_thresholds,threshold_value,Threshold value.
+clinical_review_thresholds,unit,Unit.
+clinical_review_thresholds,reviewer,Who must review the result.
+clinical_review_thresholds,source_doc_id,FK to hospital_policies.doc_id.
+clinical_review_thresholds,source_section,Section of the protocol.
+orders,order_id,Unique order ID.
+orders,patient_id,FK to patients.patient_id.
+orders,order_type,"lab, imaging, cardiac or clearance."
+orders,item_code,"Lab panel code, CXR, ECG, PAC, CONSENT or CROSSMATCH."
+orders,item_name,Name.
+orders,linked_surgery_id,FK to surgeries.surgery_id for pre-op orders.
+orders,linked_appointment_id,FK to appointments.appointment_id when the order is done at an appointment.
+orders,ordered_by,FK to doctors.doctor_id.
+orders,ordered_date,Date ordered.
+orders,scheduled_date,Date it is scheduled (pending orders).
+orders,status,"pending, scheduled, completed or cancelled."
+orders,completed_date,Date completed.
+lab_tests,test_code,Unique test code.
+lab_tests,test_name,Test name.
+lab_tests,panel_code,Panel the test is ordered in (matches orders.item_code).
+lab_tests,panel_name,Panel name.
+lab_tests,unit,Unit.
+lab_tests,ref_low,Lower reference limit.
+lab_tests,ref_high,Upper reference limit.
+lab_tests,ref_range_text,Reference range as printed on reports.
+lab_tests,critical_low,Critical low limit (SOP-LAB-002 section 5).
+lab_tests,critical_high,Critical high limit.
+lab_tests,fasting_required,Fasting needed before sample collection.
+lab_tests,turnaround_hours,Hours until the result is available.
+lab_tests,panel_price_inr,Price of the panel in INR.
+lab_results,result_id,Unique result ID.
+lab_results,order_id,FK to orders.order_id.
+lab_results,patient_id,FK to patients.patient_id.
+lab_results,test_code,FK to lab_tests.test_code.
+lab_results,test_name,Test name.
+lab_results,value,Result value.
+lab_results,unit,Unit.
+lab_results,ref_range_text,Reference range.
+lab_results,flag,"N normal, H high, L low, HH critical high, LL critical low."
+lab_results,is_critical,Y if the value is in the critical range.
+lab_results,collected_date,Sample collection date.
+lab_results,reported_date,Date the verified result was released.
+lab_results,verified_by,FK to doctors.doctor_id (pathologist).
+diagnostic_reports,report_id,Unique report ID.
+diagnostic_reports,patient_id,FK to patients.patient_id.
+diagnostic_reports,treatment_id,FK to treatments.treatment_id (Kaggle-based reports).
+diagnostic_reports,order_id,FK to orders.order_id (scenario reports).
+diagnostic_reports,modality,"MRI, XRAY, CT or ECG."
+diagnostic_reports,body_part,Body part studied.
+diagnostic_reports,study_date,Date of the study.
+diagnostic_reports,report_date,Date the report was released.
+diagnostic_reports,status,final or pending.
+diagnostic_reports,result_flag,normal or abnormal.
+diagnostic_reports,impression,"Reporting doctor's impression, shown verbatim (the assistant must not interpret it)."
+diagnostic_reports,reported_by,FK to doctors.doctor_id.
+medications,drug_id,Unique drug ID.
+medications,generic_name,Generic name.
+medications,drug_class,Drug class.
+medications,dosage_form,Form.
+medications,strength,Strength.
+medications,route,Route.
+medications,prescription_required,Y or N.
+medications,high_alert,Y for high-alert drugs that need extra checks.
+prescriptions,prescription_id,Unique prescription ID.
+prescriptions,patient_id,FK to patients.patient_id.
+prescriptions,drug_id,FK to medications.drug_id.
+prescriptions,drug_name,Generic name.
+prescriptions,dose,Dose.
+prescriptions,frequency,How often.
+prescriptions,start_date,Start date.
+prescriptions,end_date,End date (empty = ongoing).
+prescriptions,status,active or completed.
+prescriptions,prescribed_by,FK to doctors.doctor_id.
+drug_interactions,interaction_id,Unique ID.
+drug_interactions,drug_a_id,FK to medications.drug_id.
+drug_interactions,drug_a,First drug.
+drug_interactions,drug_b_id,FK to medications.drug_id.
+drug_interactions,drug_b,Second drug.
+drug_interactions,severity,"contraindicated, major or moderate."
+drug_interactions,effect,Plain-language effect of the interaction.
+drug_interactions,recommended_action,"What the assistant should tell the patient to do (always a referral, never a dosing change)."
+drug_interactions,source,Reference the row comes from.
+care_plans,care_plan_id,Unique care plan ID.
+care_plans,patient_id,FK to patients.patient_id.
+care_plans,plan_name,Plan name.
+care_plans,owner_doctor_id,FK to doctors.doctor_id.
+care_plans,start_date,Start date.
+care_plans,status,active or completed.
+care_plans,source_doc_id,"Guideline the plan follows, if any."
+care_plan_items,item_id,Unique item ID.
+care_plan_items,care_plan_id,FK to care_plans.care_plan_id.
+care_plan_items,patient_id,FK to patients.patient_id.
+care_plan_items,item_type,"follow_up, physiotherapy, lab, wound_check, chemotherapy or screening."
+care_plan_items,description,What has to be done.
+care_plan_items,due_date,Due date.
+care_plan_items,status,"done, missed, scheduled, pending or cancelled."
+care_plan_items,completed_date,Date done.
+care_plan_items,linked_appointment_id,FK to appointments.appointment_id.
+refunds,refund_id,Unique refund ID.
+refunds,bill_id,FK to billing.bill_id.
+refunds,patient_id,FK to patients.patient_id.
+refunds,amount_inr,Refund amount in INR.
+refunds,refund_mode,Original payment method.
+refunds,initiated_date,Date initiated.
+refunds,expected_by,Date by which it should reach the patient (7 working days).
+refunds,status,processing or completed.
+users,user_id,Unique user ID (subject of the login token).
+users,role,"patient, proxy, nurse, billing_staff, tpa_staff, admin or auditor."
+users,display_name,Name shown in the UI.
+users,patient_id,Patient this login belongs to (role patient).
+users,proxy_for_patient_id,Patient a registered proxy may access (POL-PRIV-001 3.1).
+users,department_id,Staff department.
+users,can_upload_documents,Y if the user may upload knowledge-base documents (R11).
+uploaded_documents,upload_id,Unique upload ID.
+uploaded_documents,patient_id,Patient the file belongs to (if any).
+uploaded_documents,file_name,File in data/untrusted_uploads/.
+uploaded_documents,channel,patient_portal or email.
+uploaded_documents,uploaded_date,Date received.
+uploaded_documents,trust_level,Always untrusted.
+uploaded_documents,test_purpose,What the file tests.
+hospital_policies,doc_id,Unique document ID (cite this).
+hospital_policies,title,Title.
+hospital_policies,policy_key,Topic key; documents with the same key compete in version resolution.
+hospital_policies,doc_type,"hospital_policy, clinical_protocol, department_sop, nursing_procedure, insurance_agreement, government_advisory, government_scheme or directory."
+hospital_policies,authority_level,"government_regulation, national_guideline, hospital_policy or department_sop."
+hospital_policies,authority_rank,1 = highest authority (government_regulation) to 4 = lowest (department_sop).
+hospital_policies,version,Version (cite this).
+hospital_policies,effective_date,Date the document takes effect (cite this).
+hospital_policies,expiry_date,Date it stops applying (empty = no expiry).
+hospital_policies,status,"approved, superseded or draft. Only approved documents may be used."
+hospital_policies,department,Owning department or issuing body.
+hospital_policies,owner,Document owner.
+hospital_policies,supersedes,Document this one replaces.
+hospital_policies,superseded_by,Document that replaces this one.
+hospital_policies,currently_effective,Y if approved and in effect on the as-of date. Convenience column for testing the resolver; the app should compute this itself.
+hospital_policies,file_name,Markdown file name.
+hospital_policies,clause_count,Number of rows in hospital_policy_sections for this document.
+hospital_policy_sections,section_id,Unique ID: doc_id#clause_number.
+hospital_policy_sections,doc_id,FK to hospital_policies.doc_id.
+hospital_policy_sections,title,Document title.
+hospital_policy_sections,version,Document version.
+hospital_policy_sections,effective_date,Document effective date.
+hospital_policy_sections,status,Document status.
+hospital_policy_sections,authority_level,Document authority level.
+hospital_policy_sections,policy_key,Document topic key.
+hospital_policy_sections,section_number,Top-level section number.
+hospital_policy_sections,section_title,Section heading.
+hospital_policy_sections,clause_number,"Clause number to cite, for example 4.2."
+hospital_policy_sections,text,Clause text (tables kept as Markdown).

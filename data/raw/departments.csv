@@ -1,0 +1,18 @@
+department_id,department_name,department_type,location,front_desk_extension,source_doc_id
+DEP-CARD,Cardiology,clinical,"Block B, 1st Floor",2310,DIR-001
+DEP-ORTH,Orthopedics,clinical,"Block A, 2nd Floor",2410,DIR-001
+DEP-ENDO,Endocrinology,clinical,"Block A, 1st Floor",2150,DIR-001
+DEP-NEPH,Nephrology,clinical,"Block B, 3rd Floor",2510,DIR-001
+DEP-GAST,Gastroenterology,clinical,"Block B, 2nd Floor",2610,DIR-001
+DEP-GSUR,General Surgery,clinical,"Block A, 3rd Floor",2710,DIR-001
+DEP-OPHT,Ophthalmology,clinical,"Block A, 1st Floor",2160,DIR-001
+DEP-NEUR,Neurology,clinical,"Block B, 2nd Floor",2620,DIR-001
+DEP-ONCO,Oncology,clinical,"Block D, 2nd Floor",2830,DIR-001
+DEP-DERM,Dermatology,clinical,"Block A, 1st Floor",2170,DIR-001
+DEP-OBGY,Obstetrics and Gynecology,clinical,"Block D, 1st Floor",2810,DIR-001
+DEP-PEDS,Pediatrics,clinical,"Block D, Ground Floor",2820,DIR-001
+DEP-ANES,Anesthesia,clinical,"Block A, 3rd Floor",2720,DIR-001
+DEP-PHYS,Physiotherapy,clinical,"Block C, 1st Floor",2910,DIR-001
+DEP-RADI,Radiology,support,"Block A, Ground Floor",2210,DIR-001
+DEP-LABM,Laboratory Medicine,support,"Block A, Ground Floor",2250,DIR-001
+DEP-EMER,Emergency Medicine,clinical,"Block C, Ground Floor",1000,DIR-001
