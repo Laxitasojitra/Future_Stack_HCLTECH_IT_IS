@@ -1,0 +1,28 @@
+requirement_id,surgery_category,item_code,item_name,item_type,validity_days,condition,auto_scheduled,source_doc_id,source_section
+PR01,minor,CBC,Complete blood count,lab,30,,N,PROT-PREOP-004,3.1; 4.1
+PR02,minor,FBS,Fasting blood glucose,lab,30,,N,PROT-PREOP-004,3.1; 4.1
+PR03,minor,ECG,ECG,cardiac,30,age >= 50,N,PROT-PREOP-004,3.1; 4.1
+PR04,intermediate,CBC,Complete blood count,lab,30,,N,PROT-PREOP-004,3.2; 4.1
+PR05,intermediate,FBS,Fasting blood glucose,lab,30,,N,PROT-PREOP-004,3.2; 4.1
+PR06,intermediate,CREAT,Serum creatinine,lab,30,,N,PROT-PREOP-004,3.2; 4.1
+PR07,intermediate,INR,PT/INR,lab,30,,N,PROT-PREOP-004,3.2; 4.1
+PR08,intermediate,ECG,ECG,cardiac,30,,N,PROT-PREOP-004,3.2; 4.1
+PR09,intermediate,BLOOD_GROUP,Blood grouping,lab,,,N,PROT-PREOP-004,3.2; 4.3
+PR10,major,CBC,Complete blood count,lab,30,,N,PROT-PREOP-004,3.3; 4.1
+PR11,major,FBS,Fasting blood glucose,lab,30,,N,PROT-PREOP-004,3.3; 4.1
+PR12,major,HBA1C,HbA1c,lab,30,,N,PROT-PREOP-004,3.3; 4.1
+PR13,major,CREAT,Serum creatinine,lab,30,,N,PROT-PREOP-004,3.3; 4.1
+PR14,major,INR,PT/INR,lab,30,,N,PROT-PREOP-004,3.3; 4.1
+PR15,major,ECG,ECG,cardiac,30,,N,PROT-PREOP-004,3.3; 4.1
+PR16,major,CXR,Chest X-ray,imaging,90,,N,PROT-PREOP-004,3.3; 4.2
+PR17,major,BLOOD_GROUP,Blood grouping,lab,,,N,PROT-PREOP-004,3.3; 4.3
+PR18,major,CROSSMATCH,Blood cross-match,lab,3,,Y,PROT-PREOP-004,3.3; 4.3
+PR19,minor,PAC,Pre-anesthesia check-up,clearance,30,,N,PROT-PREOP-004,6.1
+PR20,minor,CONSENT,Signed informed surgical consent,clearance,,,N,PROT-PREOP-004,6.2
+PR21,minor,PREAUTH,Insurance pre-authorisation approved (or self-pay deposit paid),financial,,,N,PROT-PREOP-004,6.3
+PR22,intermediate,PAC,Pre-anesthesia check-up,clearance,30,,N,PROT-PREOP-004,6.1
+PR23,intermediate,CONSENT,Signed informed surgical consent,clearance,,,N,PROT-PREOP-004,6.2
+PR24,intermediate,PREAUTH,Insurance pre-authorisation approved (or self-pay deposit paid),financial,,,N,PROT-PREOP-004,6.3
+PR25,major,PAC,Pre-anesthesia check-up,clearance,30,,N,PROT-PREOP-004,6.1
+PR26,major,CONSENT,Signed informed surgical consent,clearance,,,N,PROT-PREOP-004,6.2
+PR27,major,PREAUTH,Insurance pre-authorisation approved (or self-pay deposit paid),financial,,,N,PROT-PREOP-004,6.3

@@ -1,0 +1,7 @@
+surgery_id,patient_id,procedure_code,surgery_category,surgeon_id,anesthetist_id,scheduled_date,scheduled_time,admission_type,admission_date,discharge_date,status,hospital_branch
+S001,P051,TKR,major,D013,D019,2026-10-31,08:00,planned,2026-10-31,,scheduled,Central Hospital
+S002,P054,LAPCHOLE,intermediate,D017,D019,2026-10-29,09:00,planned,2026-10-29,,scheduled,Central Hospital
+S003,P055,HERNIA,intermediate,D017,D019,2026-11-03,10:00,planned,2026-11-03,,scheduled,Central Hospital
+S004,P057,APPEND,intermediate,D017,D019,2026-09-24,22:30,emergency,2026-09-23,2026-09-26,completed,Central Hospital
+S005,P058,CATARACT,minor,D018,D019,2026-11-05,09:30,planned,2026-11-05,2026-11-05,scheduled,Central Hospital
+S006,P060,TKR,major,D013,D019,2026-10-10,08:00,planned,2026-10-09,2026-10-12,completed,Central Hospital

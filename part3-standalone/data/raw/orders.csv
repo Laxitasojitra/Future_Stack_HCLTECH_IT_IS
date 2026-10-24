@@ -1,0 +1,139 @@
+order_id,patient_id,order_type,item_code,item_name,linked_surgery_id,linked_appointment_id,ordered_by,ordered_date,scheduled_date,status,completed_date
+O0001,P001,lab,ELEC,Electrolytes,,,D015,2026-10-20,,completed,2026-10-21
+O0002,P001,lab,CREAT,Serum creatinine,,,D015,2026-06-29,,completed,2026-06-30
+O0003,P002,lab,FBS,Fasting blood glucose,,,D016,2026-05-05,,completed,2026-05-06
+O0004,P002,lab,ELEC,Electrolytes,,,D011,2026-07-27,,completed,2026-07-28
+O0005,P002,lab,FBS,Fasting blood glucose,,,D016,2026-10-14,,completed,2026-10-15
+O0006,P003,lab,CREAT,Serum creatinine,,,D016,2026-07-06,,completed,2026-07-07
+O0007,P004,lab,CREAT,Serum creatinine,,,D016,2026-06-16,,completed,2026-06-17
+O0008,P004,lab,CBC,Complete blood count,,,D015,2026-04-11,,completed,2026-04-12
+O0009,P004,lab,CBC,Complete blood count,,,D016,2026-05-31,,completed,2026-06-01
+O0010,P005,lab,ELEC,Electrolytes,,,D011,2026-04-19,,completed,2026-04-20
+O0011,P005,lab,TSH,Thyroid (TSH),,,D016,2026-06-21,,completed,2026-06-22
+O0012,P006,lab,TSH,Thyroid (TSH),,,D015,2026-08-20,,completed,2026-08-21
+O0013,P006,lab,FBS,Fasting blood glucose,,,D011,2026-08-12,,completed,2026-08-13
+O0014,P007,lab,CREAT,Serum creatinine,,,D015,2026-04-26,,completed,2026-04-27
+O0015,P008,lab,HBA1C,HbA1c,,,D015,2026-06-04,,completed,2026-06-05
+O0016,P008,lab,CREAT,Serum creatinine,,,D016,2026-04-06,,completed,2026-04-07
+O0017,P009,lab,CREAT,Serum creatinine,,,D015,2026-10-19,,completed,2026-10-20
+O0018,P009,lab,LIPID,Lipid profile,,,D016,2026-07-05,,completed,2026-07-06
+O0019,P010,lab,FBS,Fasting blood glucose,,,D015,2026-08-12,,completed,2026-08-13
+O0020,P010,lab,TSH,Thyroid (TSH),,,D015,2026-04-30,,completed,2026-05-01
+O0021,P011,lab,ELEC,Electrolytes,,,D015,2026-10-14,,completed,2026-10-15
+O0022,P011,lab,FBS,Fasting blood glucose,,,D015,2026-06-24,,completed,2026-06-25
+O0023,P011,lab,FBS,Fasting blood glucose,,,D015,2026-06-26,,completed,2026-06-27
+O0024,P012,lab,HBA1C,HbA1c,,,D011,2026-09-30,,completed,2026-10-01
+O0025,P012,lab,HBA1C,HbA1c,,,D016,2026-08-24,,completed,2026-08-25
+O0026,P013,lab,FBS,Fasting blood glucose,,,D011,2026-08-30,,completed,2026-08-31
+O0027,P014,lab,CREAT,Serum creatinine,,,D015,2026-05-02,,completed,2026-05-03
+O0028,P015,lab,ELEC,Electrolytes,,,D015,2026-05-18,,completed,2026-05-19
+O0029,P016,lab,HBA1C,HbA1c,,,D015,2026-05-26,,completed,2026-05-27
+O0030,P017,lab,CBC,Complete blood count,,,D011,2026-05-22,,completed,2026-05-23
+O0031,P018,lab,LIPID,Lipid profile,,,D015,2026-10-10,,completed,2026-10-11
+O0032,P018,lab,CBC,Complete blood count,,,D015,2026-06-13,,completed,2026-06-14
+O0033,P018,lab,TSH,Thyroid (TSH),,,D016,2026-09-11,,completed,2026-09-12
+O0034,P019,lab,ELEC,Electrolytes,,,D015,2026-06-05,,completed,2026-06-06
+O0035,P019,lab,LIPID,Lipid profile,,,D015,2026-08-19,,completed,2026-08-20
+O0036,P020,lab,ELEC,Electrolytes,,,D015,2026-05-17,,completed,2026-05-18
+O0037,P020,lab,FBS,Fasting blood glucose,,,D016,2026-07-22,,completed,2026-07-23
+O0038,P021,lab,HBA1C,HbA1c,,,D011,2026-05-31,,completed,2026-06-01
+O0039,P021,lab,FBS,Fasting blood glucose,,,D011,2026-04-19,,completed,2026-04-20
+O0040,P021,lab,TSH,Thyroid (TSH),,,D011,2026-06-21,,completed,2026-06-22
+O0041,P022,lab,CREAT,Serum creatinine,,,D015,2026-04-26,,completed,2026-04-27
+O0042,P023,lab,TSH,Thyroid (TSH),,,D015,2026-06-02,,completed,2026-06-03
+O0043,P023,lab,HBA1C,HbA1c,,,D015,2026-08-17,,completed,2026-08-18
+O0044,P024,lab,LIPID,Lipid profile,,,D015,2026-04-27,,completed,2026-04-28
+O0045,P024,lab,HBA1C,HbA1c,,,D016,2026-04-18,,completed,2026-04-19
+O0046,P024,lab,HBA1C,HbA1c,,,D015,2026-09-25,,completed,2026-09-26
+O0047,P025,lab,TSH,Thyroid (TSH),,,D011,2026-06-06,,completed,2026-06-07
+O0048,P026,lab,TSH,Thyroid (TSH),,,D016,2026-04-11,,completed,2026-04-12
+O0049,P027,lab,CREAT,Serum creatinine,,,D015,2026-07-25,,completed,2026-07-26
+O0050,P027,lab,CBC,Complete blood count,,,D015,2026-10-04,,completed,2026-10-05
+O0051,P028,lab,CBC,Complete blood count,,,D015,2026-05-31,,completed,2026-06-01
+O0052,P029,lab,LIPID,Lipid profile,,,D016,2026-05-23,,completed,2026-05-24
+O0053,P029,lab,CBC,Complete blood count,,,D011,2026-05-17,,completed,2026-05-18
+O0054,P030,lab,FBS,Fasting blood glucose,,,D015,2026-10-20,,completed,2026-10-21
+O0055,P031,lab,HBA1C,HbA1c,,,D011,2026-04-24,,completed,2026-04-25
+O0056,P031,lab,HBA1C,HbA1c,,,D011,2026-05-13,,completed,2026-05-14
+O0057,P031,lab,CREAT,Serum creatinine,,,D015,2026-09-21,,completed,2026-09-22
+O0058,P032,lab,CBC,Complete blood count,,,D016,2026-10-05,,completed,2026-10-06
+O0059,P033,lab,HBA1C,HbA1c,,,D016,2026-06-14,,completed,2026-06-15
+O0060,P033,lab,CBC,Complete blood count,,,D016,2026-07-02,,completed,2026-07-03
+O0061,P034,lab,LIPID,Lipid profile,,,D011,2026-08-13,,completed,2026-08-14
+O0062,P034,lab,CREAT,Serum creatinine,,,D011,2026-06-10,,completed,2026-06-11
+O0063,P034,lab,ELEC,Electrolytes,,,D015,2026-07-01,,completed,2026-07-02
+O0064,P035,lab,LIPID,Lipid profile,,,D015,2026-09-09,,completed,2026-09-10
+O0065,P036,lab,LIPID,Lipid profile,,,D015,2026-04-09,,completed,2026-04-10
+O0066,P036,lab,HBA1C,HbA1c,,,D016,2026-07-30,,completed,2026-07-31
+O0067,P037,lab,TSH,Thyroid (TSH),,,D016,2026-06-04,,completed,2026-06-05
+O0068,P038,lab,TSH,Thyroid (TSH),,,D016,2026-06-29,,completed,2026-06-30
+O0069,P038,lab,FBS,Fasting blood glucose,,,D011,2026-08-08,,completed,2026-08-09
+O0070,P039,lab,TSH,Thyroid (TSH),,,D015,2026-05-18,,completed,2026-05-19
+O0071,P040,lab,CREAT,Serum creatinine,,,D011,2026-09-27,,completed,2026-09-28
+O0072,P040,lab,CREAT,Serum creatinine,,,D016,2026-09-20,,completed,2026-09-21
+O0073,P040,lab,HBA1C,HbA1c,,,D015,2026-06-12,,completed,2026-06-13
+O0074,P041,lab,CREAT,Serum creatinine,,,D016,2026-06-01,,completed,2026-06-02
+O0075,P042,lab,HBA1C,HbA1c,,,D016,2026-04-06,,completed,2026-04-07
+O0076,P043,lab,HBA1C,HbA1c,,,D016,2026-04-18,,completed,2026-04-19
+O0077,P044,lab,LIPID,Lipid profile,,,D015,2026-09-12,,completed,2026-09-13
+O0078,P044,lab,ELEC,Electrolytes,,,D016,2026-04-08,,completed,2026-04-09
+O0079,P045,lab,ELEC,Electrolytes,,,D016,2026-07-14,,completed,2026-07-15
+O0080,P046,lab,LIPID,Lipid profile,,,D011,2026-05-07,,completed,2026-05-08
+O0081,P046,lab,FBS,Fasting blood glucose,,,D011,2026-06-14,,completed,2026-06-15
+O0082,P046,lab,LIPID,Lipid profile,,,D011,2026-06-30,,completed,2026-07-01
+O0083,P047,lab,LIPID,Lipid profile,,,D015,2026-05-06,,completed,2026-05-07
+O0084,P047,lab,HBA1C,HbA1c,,,D015,2026-05-14,,completed,2026-05-15
+O0085,P048,lab,CREAT,Serum creatinine,,,D015,2026-07-31,,completed,2026-08-01
+O0086,P048,lab,LIPID,Lipid profile,,,D016,2026-06-04,,completed,2026-06-05
+O0087,P048,lab,TSH,Thyroid (TSH),,,D015,2026-08-08,,completed,2026-08-09
+O0088,P049,lab,TSH,Thyroid (TSH),,,D011,2026-09-25,,completed,2026-09-26
+O0089,P049,lab,CBC,Complete blood count,,,D011,2026-07-29,,completed,2026-07-30
+O0090,P049,lab,FBS,Fasting blood glucose,,,D016,2026-09-06,,completed,2026-09-07
+O0091,P050,lab,ELEC,Electrolytes,,,D015,2026-09-14,,completed,2026-09-15
+O0092,P050,lab,HBA1C,HbA1c,,,D015,2026-04-30,,completed,2026-05-01
+O0093,P051,lab,CBC,Complete blood count,S001,,D013,2026-10-13,,completed,2026-10-14
+O0094,P051,lab,FBS,Fasting blood glucose,S001,,D013,2026-10-13,,completed,2026-10-14
+O0095,P051,lab,HBA1C,HbA1c,S001,,D013,2026-10-13,,completed,2026-10-14
+O0096,P051,lab,CREAT,Serum creatinine,S001,,D013,2026-10-13,,completed,2026-10-14
+O0097,P051,lab,INR,Prothrombin time / INR,S001,,D013,2026-10-13,,completed,2026-10-14
+O0098,P051,lab,BLOOD_GROUP,Blood grouping,S001,,D013,2026-10-13,,completed,2026-10-14
+O0099,P051,lab,FBS,Fasting blood glucose,,,D015,2026-06-25,,completed,2026-06-26
+O0100,P051,lab,HBA1C,HbA1c,,,D015,2026-06-25,,completed,2026-06-26
+O0101,P051,imaging,CXR,Chest X-ray,S001,,D013,2026-09-12,,completed,2026-09-14
+O0102,P051,cardiac,ECG,ECG,S001,A201,D013,2026-10-10,2026-10-27,scheduled,
+O0103,P051,clearance,PAC,Pre-anesthesia check-up,S001,A202,D013,2026-10-10,2026-10-27,scheduled,
+O0104,P051,clearance,CONSENT,Signed informed surgical consent,S001,A203,D013,2026-10-10,2026-10-30,pending,
+O0105,P051,lab,CROSSMATCH,Blood cross-match,S001,,D013,2026-10-10,2026-10-30,scheduled,
+O0106,P051,imaging,MRI,MRI right knee,,A204,D013,2026-09-29,,completed,2026-10-04
+O0107,P052,lab,TSH,Thyroid (TSH),,,D015,2026-10-08,,completed,2026-10-09
+O0108,P052,lab,FBS,Fasting blood glucose,,,D015,2026-10-08,,completed,2026-10-09
+O0109,P054,lab,CBC,Complete blood count,S002,,D017,2026-10-17,,completed,2026-10-18
+O0110,P054,lab,FBS,Fasting blood glucose,S002,,D017,2026-10-17,,completed,2026-10-18
+O0111,P054,lab,CREAT,Serum creatinine,S002,,D017,2026-10-17,,completed,2026-10-18
+O0112,P054,lab,INR,Prothrombin time / INR,S002,,D017,2026-10-17,,completed,2026-10-18
+O0113,P054,lab,BLOOD_GROUP,Blood grouping,S002,,D017,2026-10-17,,completed,2026-10-18
+O0114,P054,cardiac,ECG,ECG,S002,,D017,2026-10-16,,completed,2026-10-18
+O0115,P054,clearance,PAC,Pre-anesthesia check-up,S002,A207,D017,2026-10-16,,completed,2026-10-18
+O0116,P054,clearance,CONSENT,Signed informed surgical consent,S002,,D017,2026-10-16,,completed,2026-10-18
+O0117,P055,lab,CBC,Complete blood count,S003,,D017,2026-10-20,,completed,2026-10-21
+O0118,P055,lab,FBS,Fasting blood glucose,S003,,D017,2026-10-20,,completed,2026-10-21
+O0119,P055,lab,CREAT,Serum creatinine,S003,,D017,2026-10-20,,completed,2026-10-21
+O0120,P055,lab,INR,Prothrombin time / INR,S003,,D017,2026-10-20,,completed,2026-10-21
+O0121,P055,lab,BLOOD_GROUP,Blood grouping,S003,,D017,2026-10-20,,completed,2026-10-21
+O0122,P055,lab,HBA1C,HbA1c,,,D015,2026-10-20,,completed,2026-10-21
+O0123,P055,lab,HBA1C,HbA1c,,,D015,2026-07-20,,completed,2026-07-21
+O0124,P055,cardiac,ECG,ECG,S003,,D017,2026-10-20,,completed,2026-10-21
+O0125,P055,clearance,PAC,Pre-anesthesia check-up,S003,A208,D017,2026-10-20,2026-10-28,scheduled,
+O0126,P055,clearance,CONSENT,Signed informed surgical consent,S003,,D017,2026-10-20,,pending,
+O0127,P056,lab,ELEC,Electrolytes,,,D016,2026-10-23,,completed,2026-10-24
+O0128,P056,lab,CREAT,Serum creatinine,,,D016,2026-10-23,,completed,2026-10-24
+O0129,P056,lab,ELEC,Electrolytes,,,D016,2026-08-24,,completed,2026-08-25
+O0130,P056,lab,CREAT,Serum creatinine,,,D016,2026-08-24,,completed,2026-08-25
+O0131,P057,imaging,CT,CT abdomen with contrast,,,D017,2026-09-23,,completed,2026-09-23
+O0132,P057,lab,CBC,Complete blood count,S004,,D017,2026-09-22,,completed,2026-09-23
+O0133,P058,lab,CBC,Complete blood count,S005,,D018,2026-10-18,,completed,2026-10-19
+O0134,P058,lab,FBS,Fasting blood glucose,S005,,D018,2026-10-18,,completed,2026-10-19
+O0135,P058,cardiac,ECG,ECG,S005,,D018,2026-10-18,,completed,2026-10-19
+O0136,P058,clearance,PAC,Pre-anesthesia check-up,S005,A212,D018,2026-10-18,,completed,2026-10-19
+O0137,P058,clearance,CONSENT,Signed informed surgical consent,S005,,D018,2026-10-18,,pending,
+O0138,P059,lab,LIPID,Lipid profile,,,D012,2026-10-03,,completed,2026-10-04

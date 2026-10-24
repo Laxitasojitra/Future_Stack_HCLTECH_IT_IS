@@ -1,0 +1,33 @@
+drug_id,generic_name,drug_class,dosage_form,strength,route,prescription_required,high_alert
+DRG001,Metformin,Biguanide (antidiabetic),Tablet,500 mg,Oral,Y,N
+DRG002,Glimepiride,Sulfonylurea (antidiabetic),Tablet,2 mg,Oral,Y,N
+DRG003,Insulin glargine,Long-acting insulin,Injection,100 units/mL,Subcutaneous,Y,Y
+DRG004,Atorvastatin,Statin,Tablet,10 mg,Oral,Y,N
+DRG005,Simvastatin,Statin,Tablet,20 mg,Oral,Y,N
+DRG006,Amlodipine,Calcium channel blocker,Tablet,5 mg,Oral,Y,N
+DRG007,Lisinopril,ACE inhibitor,Tablet,10 mg,Oral,Y,N
+DRG008,Telmisartan,Angiotensin receptor blocker,Tablet,40 mg,Oral,Y,N
+DRG009,Metoprolol,Beta blocker,Tablet,25 mg,Oral,Y,N
+DRG010,Spironolactone,Potassium-sparing diuretic,Tablet,25 mg,Oral,Y,N
+DRG011,Furosemide,Loop diuretic,Tablet,40 mg,Oral,Y,N
+DRG012,Warfarin,Anticoagulant,Tablet,5 mg,Oral,Y,Y
+DRG013,Aspirin,Antiplatelet,Tablet,75 mg,Oral,Y,N
+DRG014,Clopidogrel,Antiplatelet,Tablet,75 mg,Oral,Y,N
+DRG015,Enoxaparin,Low-molecular-weight heparin,Injection,40 mg,Subcutaneous,Y,Y
+DRG016,Paracetamol,Analgesic,Tablet,650 mg,Oral,Y,N
+DRG017,Ibuprofen,NSAID,Tablet,400 mg,Oral,Y,N
+DRG018,Diclofenac,NSAID,Tablet,50 mg,Oral,Y,N
+DRG019,Tramadol,Opioid analgesic,Capsule,50 mg,Oral,Y,Y
+DRG020,Pantoprazole,Proton pump inhibitor,Tablet,40 mg,Oral,Y,N
+DRG021,Omeprazole,Proton pump inhibitor,Capsule,20 mg,Oral,Y,N
+DRG022,Ondansetron,Antiemetic,Tablet,4 mg,Oral,Y,N
+DRG023,Levothyroxine,Thyroid hormone,Tablet,50 mcg,Oral,Y,N
+DRG024,Amoxicillin-clavulanate,Antibiotic (penicillin),Tablet,625 mg,Oral,Y,N
+DRG025,Clarithromycin,Antibiotic (macrolide),Tablet,500 mg,Oral,Y,N
+DRG026,Sildenafil,PDE5 inhibitor,Tablet,50 mg,Oral,Y,N
+DRG027,Nitroglycerin,Nitrate,Sublingual tablet,0.5 mg,Sublingual,Y,N
+DRG028,Prednisolone,Corticosteroid,Tablet,10 mg,Oral,Y,N
+DRG029,Cetirizine,Antihistamine,Tablet,10 mg,Oral,Y,N
+DRG030,Methotrexate,Antimetabolite,Tablet,2.5 mg,Oral,Y,Y
+DRG031,Iohexol,Iodinated contrast agent,Injection,300 mgI/mL,Intravenous,Y,N
+DRG032,Salbutamol,Bronchodilator,Inhaler,100 mcg/dose,Inhaled,Y,N

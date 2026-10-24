@@ -1,0 +1,325 @@
+section_id,doc_id,title,version,effective_date,status,authority_level,policy_key,section_number,section_title,clause_number,text
+DIR-001#1.1,DIR-001,Departments and Services Directory,2026.3,2026-08-01,approved,hospital_policy,department_directory,1,Branches,1.1,"1.1 Central Hospital is the main campus, with all inpatient services, surgery, the Emergency Department, Radiology and the Laboratory."
+DIR-001#1.2,DIR-001,Departments and Services Directory,2026.3,2026-08-01,approved,hospital_policy,department_directory,1,Branches,1.2,"1.2 Westside Clinic and Eastside Clinic are outpatient branches offering consultations, physiotherapy, X-ray and day-care services."
+DIR-001#2,DIR-001,Departments and Services Directory,2026.3,2026-08-01,approved,hospital_policy,department_directory,2,Clinical Departments,2,"| Department | Common reasons to visit | Location (Central Hospital) | Front desk |
+|---|---|---|---|
+| Cardiology | Heart rhythm problems, high blood pressure follow-up, ECG, echocardiogram, stress test | Block B, 1st Floor | Ext. 2310 |
+| Orthopedics | Joint pain, fractures, sports injuries, knee and hip replacement | Block A, 2nd Floor | Ext. 2410 |
+| Endocrinology | Diabetes, thyroid disorders, hormone problems | Block A, 1st Floor | Ext. 2150 |
+| Nephrology | Kidney disease, dialysis | Block B, 3rd Floor | Ext. 2510 |
+| Gastroenterology | Stomach, liver and digestive problems, endoscopy | Block B, 2nd Floor | Ext. 2610 |
+| General Surgery | Gallbladder, hernia, appendix and other abdominal surgery | Block A, 3rd Floor | Ext. 2710 |
+| Ophthalmology | Eye problems, cataract surgery | Block A, 1st Floor | Ext. 2160 |
+| Neurology | Headache, seizures, stroke follow-up | Block B, 2nd Floor | Ext. 2620 |
+| Oncology | Cancer care, day-care chemotherapy | Block D, 2nd Floor | Ext. 2830 |
+| Dermatology | Skin, hair and nail problems | Block A, 1st Floor | Ext. 2170 |
+| Obstetrics and Gynecology | Pregnancy care, women's health | Block D, 1st Floor | Ext. 2810 |
+| Pediatrics | Child health and vaccinations | Block D, Ground Floor | Ext. 2820 |
+| Anesthesia (Pre-anesthesia clinic) | Pre-anesthesia check-up (PAC) before surgery | Block A, 3rd Floor | Ext. 2720 |
+| Physiotherapy | Rehabilitation after surgery or injury | Block C, 1st Floor | Ext. 2910 |"
+DIR-001#3,DIR-001,Departments and Services Directory,2026.3,2026-08-01,approved,hospital_policy,department_directory,3,Support Services,3,"| Service | Location (Central Hospital) | Hours |
+|---|---|---|
+| Radiology (MRI, CT, X-ray) | Block A, Ground Floor, Ext. 2210 | See SOP-RAD-001 |
+| Laboratory sample collection | Block A, Ground Floor, Ext. 2250 | 7:00 AM to 7:00 PM |
+| Pharmacy | Block A, Ground Floor | 24 hours |
+| Billing Desk and TPA Desk | Block A, Ground Floor | 8:00 AM to 10:00 PM |
+| Medical Records | Block A, Basement | 9:00 AM to 5:00 PM, Monday to Saturday |
+| Emergency Department | Block C, Ground Floor, Ext. 1000 | 24 hours |"
+DIR-001#4.1,DIR-001,Departments and Services Directory,2026.3,2026-08-01,approved,hospital_policy,department_directory,4,Outpatient Hours,4.1,"4.1 Outpatient clinics run Monday to Saturday from 8:00 AM to 8:00 PM, and Sunday from 9:00 AM to 1:00 PM."
+GOV-ADV-2026-14#1,GOV-ADV-2026-14,Advisory: Seasonal Respiratory and Vector-borne Illness - Hospital Visitor Restrictions,1.0,2026-09-15,approved,government_regulation,visiting_hours,1,Background,1,Cases of influenza-like illness and dengue have risen during the current season. Critically ill patients face higher risk of acquiring infections from visitors.
+GOV-ADV-2026-14#2.1,GOV-ADV-2026-14,Advisory: Seasonal Respiratory and Vector-borne Illness - Hospital Visitor Restrictions,1.0,2026-09-15,approved,government_regulation,visiting_hours,2,Applicability,2.1,2.1 This advisory applies to all public and private hospitals in the State with inpatient and intensive care facilities.
+GOV-ADV-2026-14#3.1,GOV-ADV-2026-14,Advisory: Seasonal Respiratory and Vector-borne Illness - Hospital Visitor Restrictions,1.0,2026-09-15,approved,government_regulation,visiting_hours,3,Directions to Hospitals,3.1,3.1 Visits to Intensive Care Units shall be limited to one designated visitor per patient per day.
+GOV-ADV-2026-14#3.2,GOV-ADV-2026-14,Advisory: Seasonal Respiratory and Vector-borne Illness - Hospital Visitor Restrictions,1.0,2026-09-15,approved,government_regulation,visiting_hours,3,Directions to Hospitals,3.2,3.2 Face masks are mandatory for all visitors in ICUs and inpatient wards.
+GOV-ADV-2026-14#3.3,GOV-ADV-2026-14,Advisory: Seasonal Respiratory and Vector-borne Illness - Hospital Visitor Restrictions,1.0,2026-09-15,approved,government_regulation,visiting_hours,3,Directions to Hospitals,3.3,"3.3 Visitors with fever, cough, cold or other flu-like symptoms shall not be permitted to enter inpatient areas."
+GOV-ADV-2026-14#3.4,GOV-ADV-2026-14,Advisory: Seasonal Respiratory and Vector-borne Illness - Hospital Visitor Restrictions,1.0,2026-09-15,approved,government_regulation,visiting_hours,3,Directions to Hospitals,3.4,3.4 Hospitals shall display these restrictions at all entry points.
+GOV-ADV-2026-14#4.1,GOV-ADV-2026-14,Advisory: Seasonal Respiratory and Vector-borne Illness - Hospital Visitor Restrictions,1.0,2026-09-15,approved,government_regulation,visiting_hours,4,Precedence,4.1,"4.1 Where a hospital's internal visitor policy permits more visitors than this advisory, this advisory shall prevail for its period of validity."
+GOV-ADV-2026-14#4.2,GOV-ADV-2026-14,Advisory: Seasonal Respiratory and Vector-borne Illness - Hospital Visitor Restrictions,1.0,2026-09-15,approved,government_regulation,visiting_hours,4,Precedence,4.2,4.2 Visiting hours remain as set by each hospital.
+GOV-ADV-2026-14#5.1,GOV-ADV-2026-14,Advisory: Seasonal Respiratory and Vector-borne Illness - Hospital Visitor Restrictions,1.0,2026-09-15,approved,government_regulation,visiting_hours,5,Validity,5.1,"5.1 This advisory is valid from 15 September 2026 to 31 December 2026, unless withdrawn or extended earlier."
+GOV-SCH-2026#1.1,GOV-SCH-2026,State Health Assurance Scheme (SHAS) - Guidelines for Empanelled Hospitals,2026.1,2026-04-01,approved,government_regulation,insurance_shas,1,Coverage,1.1,"1.1 Eligible families are covered up to ₹5,00,000 per family per year for listed procedure packages."
+GOV-SCH-2026#1.2,GOV-SCH-2026,State Health Assurance Scheme (SHAS) - Guidelines for Empanelled Hospitals,2026.1,2026-04-01,approved,government_regulation,insurance_shas,1,Coverage,1.2,1.2 Treatment is cashless at empanelled hospitals. Beneficiaries pay nothing for services included in a package.
+GOV-SCH-2026#1.3,GOV-SCH-2026,State Health Assurance Scheme (SHAS) - Guidelines for Empanelled Hospitals,2026.1,2026-04-01,approved,government_regulation,insurance_shas,1,Coverage,1.3,1.3 There is no waiting period and no co-payment.
+GOV-SCH-2026#2.1,GOV-SCH-2026,State Health Assurance Scheme (SHAS) - Guidelines for Empanelled Hospitals,2026.1,2026-04-01,approved,government_regulation,insurance_shas,2,Eligibility,2.1,2.1 Eligibility is confirmed only through the SHAS beneficiary verification system using the beneficiary's scheme card. Hospitals must not assume eligibility from documents alone.
+GOV-SCH-2026#3,GOV-SCH-2026,State Health Assurance Scheme (SHAS) - Guidelines for Empanelled Hospitals,2026.1,2026-04-01,approved,government_regulation,insurance_shas,3,Selected Procedure Packages,3,"| Procedure | Package rate |
+|---|---|
+| Total knee replacement | ₹1,20,000 |
+| Total hip replacement | ₹1,40,000 |
+| Laparoscopic cholecystectomy | ₹45,000 |
+| Laparoscopic appendectomy | ₹40,000 |
+| Cataract surgery (per eye) | ₹15,000 |
+| Hernia repair | ₹35,000 |
+| Coronary angiography | ₹15,000 |
+| Chemotherapy (day-care, per cycle) | ₹10,000 |"
+GOV-SCH-2026#3.1,GOV-SCH-2026,State Health Assurance Scheme (SHAS) - Guidelines for Empanelled Hospitals,2026.1,2026-04-01,approved,government_regulation,insurance_shas,3,Selected Procedure Packages,3.1,3.1 Outpatient consultations and outpatient diagnostics are not covered.
+GOV-SCH-2026#4.1,GOV-SCH-2026,State Health Assurance Scheme (SHAS) - Guidelines for Empanelled Hospitals,2026.1,2026-04-01,approved,government_regulation,insurance_shas,4,Pre-authorisation,4.1,4.1 Pre-authorisation through the SHAS portal is mandatory for all planned procedures and must be approved before admission.
+INS-AGR-HI-2026#1.1,INS-AGR-HI-2026,HealthIndia Insurance - Hospital Network Agreement,2.0,2026-04-01,approved,hospital_policy,insurance_healthindia,1,Plan Covered,1.1,"1.1 HealthIndia Family Floater (plan code HI-FAMILY): sum insured ₹6,00,000 per policy year, shared by all insured family members."
+INS-AGR-HI-2026#2.1,INS-AGR-HI-2026,HealthIndia Insurance - Hospital Network Agreement,2.0,2026-04-01,approved,hospital_policy,insurance_healthindia,2,Waiting Periods,2.1,2.1 Planned joint replacement surgery (knee or hip) is covered after 36 months of continuous coverage.
+INS-AGR-HI-2026#2.2,INS-AGR-HI-2026,HealthIndia Insurance - Hospital Network Agreement,2.0,2026-04-01,approved,hospital_policy,insurance_healthindia,2,Waiting Periods,2.2,"2.2 Laparoscopic cholecystectomy, cataract surgery and hernia repair are covered after 24 months of continuous coverage."
+INS-AGR-HI-2026#2.3,INS-AGR-HI-2026,HealthIndia Insurance - Hospital Network Agreement,2.0,2026-04-01,approved,hospital_policy,insurance_healthindia,2,Waiting Periods,2.3,"2.3 Laparoscopic appendectomy, coronary angiography and day-care chemotherapy have no waiting period."
+INS-AGR-HI-2026#3.1,INS-AGR-HI-2026,HealthIndia Insurance - Hospital Network Agreement,2.0,2026-04-01,approved,hospital_policy,insurance_healthindia,3,Covered Procedures and Co-payment,3.1,"3.1 A co-payment of 10% applies to all covered inpatient and day-care procedures.
+
+| Procedure | Sub-limit | Pre-authorisation |
+|---|---|---|
+| Total knee replacement | ₹2,25,000 | Required |
+| Total hip replacement | ₹2,25,000 | Required |
+| Laparoscopic cholecystectomy | None | Required |
+| Laparoscopic appendectomy | None | Required |
+| Cataract surgery (per eye) | ₹40,000 per eye | Required |
+| Hernia repair | None | Required |
+| Coronary angiography (inpatient) | None | Required |
+| Chemotherapy (day-care, per cycle) | None | Required |"
+INS-AGR-HI-2026#4.1,INS-AGR-HI-2026,HealthIndia Insurance - Hospital Network Agreement,2.0,2026-04-01,approved,hospital_policy,insurance_healthindia,4,Outpatient Diagnostics and Therapy,4.1,"4.1 Outpatient diagnostics (MRI, CT, X-ray, ECG, echocardiogram, stress test, laboratory tests) and outpatient physiotherapy are covered up to ₹5,000 per policy year in total, with no co-payment and no pre-authorisation."
+INS-AGR-HI-2026#4.2,INS-AGR-HI-2026,HealthIndia Insurance - Hospital Network Agreement,2.0,2026-04-01,approved,hospital_policy,insurance_healthindia,4,Outpatient Diagnostics and Therapy,4.2,4.2 Outpatient consultations are not covered.
+INS-AGR-HI-2026#5.1,INS-AGR-HI-2026,HealthIndia Insurance - Hospital Network Agreement,2.0,2026-04-01,approved,hospital_policy,insurance_healthindia,5,Pre-authorisation,5.1,5.1 The hospital TPA desk submits the request at least 5 days before planned surgery. HealthIndia decides within 2 working days.
+INS-AGR-MC-2026#1.1,INS-AGR-MC-2026,MedCare Plus Insurance - Hospital Network Agreement,1.0,2026-01-01,approved,hospital_policy,insurance_medcareplus,1,Plans Covered,1.1,"1.1 MedCare Plus Basic (plan code MC-BASIC): sum insured ₹3,00,000 per policy year."
+INS-AGR-MC-2026#1.2,INS-AGR-MC-2026,MedCare Plus Insurance - Hospital Network Agreement,1.0,2026-01-01,approved,hospital_policy,insurance_medcareplus,1,Plans Covered,1.2,"1.2 MedCare Plus Premium (plan code MC-PREMIUM): sum insured ₹7,00,000 per policy year."
+INS-AGR-MC-2026#2.1,INS-AGR-MC-2026,MedCare Plus Insurance - Hospital Network Agreement,1.0,2026-01-01,approved,hospital_policy,insurance_medcareplus,2,Waiting Periods,2.1,"2.1 Planned joint replacement surgery (knee or hip) is covered only under the Premium plan, after 36 months of continuous coverage."
+INS-AGR-MC-2026#2.2,INS-AGR-MC-2026,MedCare Plus Insurance - Hospital Network Agreement,1.0,2026-01-01,approved,hospital_policy,insurance_medcareplus,2,Waiting Periods,2.2,"2.2 Laparoscopic cholecystectomy, cataract surgery and hernia repair are covered after 24 months of continuous coverage."
+INS-AGR-MC-2026#2.3,INS-AGR-MC-2026,MedCare Plus Insurance - Hospital Network Agreement,1.0,2026-01-01,approved,hospital_policy,insurance_medcareplus,2,Waiting Periods,2.3,"2.3 Laparoscopic appendectomy, coronary angiography and day-care chemotherapy have no waiting period."
+INS-AGR-MC-2026#3,INS-AGR-MC-2026,MedCare Plus Insurance - Hospital Network Agreement,1.0,2026-01-01,approved,hospital_policy,insurance_medcareplus,3,Covered Procedures and Co-payment,3,"| Procedure | Basic | Premium | Pre-authorisation |
+|---|---|---|---|
+| Total knee replacement | Not covered | 15% co-pay, sub-limit ₹2,00,000 | Required |
+| Total hip replacement | Not covered | 15% co-pay, sub-limit ₹2,00,000 | Required |
+| Laparoscopic cholecystectomy | 20% co-pay | 10% co-pay | Required |
+| Laparoscopic appendectomy | 20% co-pay | 10% co-pay | Required |
+| Cataract surgery (per eye) | 20% co-pay, sub-limit ₹30,000 | 10% co-pay, sub-limit ₹30,000 | Required |
+| Hernia repair | 20% co-pay | 10% co-pay | Required |
+| Coronary angiography (inpatient) | Not covered | 10% co-pay | Required |
+| Chemotherapy (day-care, per cycle) | 20% co-pay | 10% co-pay | Required |"
+INS-AGR-MC-2026#4.1,INS-AGR-MC-2026,MedCare Plus Insurance - Hospital Network Agreement,1.0,2026-01-01,approved,hospital_policy,insurance_medcareplus,4,Outpatient Services,4.1,"4.1 Outpatient consultations, outpatient diagnostics and outpatient physiotherapy are not covered under either plan."
+INS-AGR-MC-2026#5.1,INS-AGR-MC-2026,MedCare Plus Insurance - Hospital Network Agreement,1.0,2026-01-01,approved,hospital_policy,insurance_medcareplus,5,Pre-authorisation,5.1,5.1 The hospital TPA desk submits the request at least 5 days before planned surgery. MedCare Plus decides within 2 working days.
+INS-AGR-PS-2026#1.1,INS-AGR-PS-2026,PulseSecure Insurance - Hospital Network Agreement,1.1,2026-02-01,approved,hospital_policy,insurance_pulsesecure,1,Plan Covered,1.1,"1.1 PulseSecure Classic (plan code PS-CLASSIC): sum insured ₹4,00,000 per policy year."
+INS-AGR-PS-2026#2.1,INS-AGR-PS-2026,PulseSecure Insurance - Hospital Network Agreement,1.1,2026-02-01,approved,hospital_policy,insurance_pulsesecure,2,Waiting Periods,2.1,"2.1 Planned joint replacement surgery, laparoscopic cholecystectomy, cataract surgery and hernia repair are covered after 24 months of continuous coverage."
+INS-AGR-PS-2026#2.2,INS-AGR-PS-2026,PulseSecure Insurance - Hospital Network Agreement,1.1,2026-02-01,approved,hospital_policy,insurance_pulsesecure,2,Waiting Periods,2.2,"2.2 Laparoscopic appendectomy, coronary angiography and day-care chemotherapy have no waiting period."
+INS-AGR-PS-2026#3,INS-AGR-PS-2026,PulseSecure Insurance - Hospital Network Agreement,1.1,2026-02-01,approved,hospital_policy,insurance_pulsesecure,3,Covered Procedures and Co-payment,3,"| Procedure | Co-pay | Sub-limit | Pre-authorisation |
+|---|---|---|---|
+| Total knee replacement | 25% | ₹1,80,000 | Required |
+| Total hip replacement | 25% | ₹1,80,000 | Required |
+| Laparoscopic cholecystectomy | 25% | None | Required |
+| Laparoscopic appendectomy | 25% | None | Required |
+| Cataract surgery (per eye) | 25% | ₹35,000 per eye | Required |
+| Hernia repair | 25% | None | Required |
+| Coronary angiography (inpatient) | 25% | None | Required |
+| Chemotherapy (day-care, per cycle) | 25% | None | Required |"
+INS-AGR-PS-2026#4.1,INS-AGR-PS-2026,PulseSecure Insurance - Hospital Network Agreement,1.1,2026-02-01,approved,hospital_policy,insurance_pulsesecure,4,Outpatient Services,4.1,"4.1 Outpatient consultations, outpatient diagnostics (including MRI, CT, X-ray and ECG) and outpatient physiotherapy are not covered."
+INS-AGR-PS-2026#5.1,INS-AGR-PS-2026,PulseSecure Insurance - Hospital Network Agreement,1.1,2026-02-01,approved,hospital_policy,insurance_pulsesecure,5,Pre-authorisation,5.1,5.1 The hospital TPA desk submits the request at least 7 days before planned surgery. PulseSecure decides within 3 working days.
+INS-AGR-WC-2025#5,INS-AGR-WC-2025,WellnessCorp Health Insurance - Hospital Network Agreement,1.0,2025-04-01,superseded,hospital_policy,insurance_wellnesscorp,5,Covered Procedures and Co-payment,5,"| Procedure | Silver co-pay | Gold co-pay | Pre-authorisation |
+|---|---|---|---|
+| Total knee replacement | 20% | 10% | Required |
+| Total hip replacement | 20% | 10% | Required |
+| Laparoscopic cholecystectomy | 20% | 10% | Required |"
+INS-AGR-WC-2026#1.1,INS-AGR-WC-2026,WellnessCorp Health Insurance - Hospital Network Agreement,2.0,2026-04-01,approved,hospital_policy,insurance_wellnesscorp,1,Parties,1.1,1.1 This agreement is between Sunrise Multispeciality Hospital and WellnessCorp Health Insurance for cashless treatment of WellnessCorp Silver and Gold policyholders.
+INS-AGR-WC-2026#2.1,INS-AGR-WC-2026,WellnessCorp Health Insurance - Hospital Network Agreement,2.0,2026-04-01,approved,hospital_policy,insurance_wellnesscorp,2,Plans Covered,2.1,"2.1 WellnessCorp Silver (plan code WC-SILVER): sum insured ₹5,00,000 per policy year."
+INS-AGR-WC-2026#2.2,INS-AGR-WC-2026,WellnessCorp Health Insurance - Hospital Network Agreement,2.0,2026-04-01,approved,hospital_policy,insurance_wellnesscorp,2,Plans Covered,2.2,"2.2 WellnessCorp Gold (plan code WC-GOLD): sum insured ₹10,00,000 per policy year."
+INS-AGR-WC-2026#3.1,INS-AGR-WC-2026,WellnessCorp Health Insurance - Hospital Network Agreement,2.0,2026-04-01,approved,hospital_policy,insurance_wellnesscorp,3,Room Rent Limit,3.1,3.1 Room rent is payable up to 1% of the sum insured per day. Any amount above this limit is paid by the patient.
+INS-AGR-WC-2026#4.1,INS-AGR-WC-2026,WellnessCorp Health Insurance - Hospital Network Agreement,2.0,2026-04-01,approved,hospital_policy,insurance_wellnesscorp,4,Waiting Periods,4.1,"4.1 Planned joint replacement surgery (knee or hip), cataract surgery and hernia repair are covered only after 24 months of continuous coverage from the policy start date."
+INS-AGR-WC-2026#4.2,INS-AGR-WC-2026,WellnessCorp Health Insurance - Hospital Network Agreement,2.0,2026-04-01,approved,hospital_policy,insurance_wellnesscorp,4,Waiting Periods,4.2,4.2 Laparoscopic cholecystectomy is covered after 12 months of continuous coverage.
+INS-AGR-WC-2026#4.3,INS-AGR-WC-2026,WellnessCorp Health Insurance - Hospital Network Agreement,2.0,2026-04-01,approved,hospital_policy,insurance_wellnesscorp,4,Waiting Periods,4.3,"4.3 Laparoscopic appendectomy, coronary angiography and day-care chemotherapy have no waiting period."
+INS-AGR-WC-2026#5,INS-AGR-WC-2026,WellnessCorp Health Insurance - Hospital Network Agreement,2.0,2026-04-01,approved,hospital_policy,insurance_wellnesscorp,5,Covered Procedures and Co-payment,5,"| Procedure | Silver co-pay | Gold co-pay | Sub-limit | Pre-authorisation |
+|---|---|---|---|---|
+| Total knee replacement | 30% | 20% | Silver ₹1,50,000; Gold ₹2,50,000 | Required |
+| Total hip replacement | 30% | 20% | Silver ₹1,50,000; Gold ₹2,50,000 | Required |
+| Laparoscopic cholecystectomy | 30% | 10% | None | Required |
+| Laparoscopic appendectomy | 30% | 10% | None | Required (within 24 hours of emergency admission) |
+| Cataract surgery (per eye) | 30% | 10% | ₹40,000 per eye | Required |
+| Hernia repair | 30% | 10% | None | Required |
+| Coronary angiography (inpatient) | 30% | 10% | None | Required |
+| Chemotherapy (day-care, per cycle) | 30% | 10% | None | Required |"
+INS-AGR-WC-2026#5.1,INS-AGR-WC-2026,WellnessCorp Health Insurance - Hospital Network Agreement,2.0,2026-04-01,approved,hospital_policy,insurance_wellnesscorp,5,Covered Procedures and Co-payment,5.1,"5.1 Co-payment is the percentage of the admissible claim amount paid by the patient. The admissible amount is the billed amount or the sub-limit, whichever is lower."
+INS-AGR-WC-2026#6.1,INS-AGR-WC-2026,WellnessCorp Health Insurance - Hospital Network Agreement,2.0,2026-04-01,approved,hospital_policy,insurance_wellnesscorp,6,Outpatient Diagnostics and Therapy,6.1,"6.1 Silver: outpatient diagnostics (MRI, CT, X-ray, ECG, echocardiogram, stress test, laboratory tests) and outpatient physiotherapy are not covered."
+INS-AGR-WC-2026#6.2,INS-AGR-WC-2026,WellnessCorp Health Insurance - Hospital Network Agreement,2.0,2026-04-01,approved,hospital_policy,insurance_wellnesscorp,6,Outpatient Diagnostics and Therapy,6.2,"6.2 Gold: outpatient diagnostics and outpatient physiotherapy are covered up to ₹10,000 per policy year in total, with no co-payment and no pre-authorisation."
+INS-AGR-WC-2026#7.1,INS-AGR-WC-2026,WellnessCorp Health Insurance - Hospital Network Agreement,2.0,2026-04-01,approved,hospital_policy,insurance_wellnesscorp,7,Exclusions,7.1,"7.1 Cosmetic procedures, dental treatment (unless due to accident), infertility treatment, and outpatient consultations are not covered."
+INS-AGR-WC-2026#8.1,INS-AGR-WC-2026,WellnessCorp Health Insurance - Hospital Network Agreement,2.0,2026-04-01,approved,hospital_policy,insurance_wellnesscorp,8,Cashless Pre-authorisation Process,8.1,"8.1 For planned surgery, the hospital TPA desk submits the pre-authorisation request at least 7 days before the planned surgery date."
+INS-AGR-WC-2026#8.2,INS-AGR-WC-2026,WellnessCorp Health Insurance - Hospital Network Agreement,2.0,2026-04-01,approved,hospital_policy,insurance_wellnesscorp,8,Cashless Pre-authorisation Process,8.2,8.2 WellnessCorp decides on a complete request within 3 working days.
+INS-AGR-WC-2026#8.3,INS-AGR-WC-2026,WellnessCorp Health Insurance - Hospital Network Agreement,2.0,2026-04-01,approved,hospital_policy,insurance_wellnesscorp,8,Cashless Pre-authorisation Process,8.3,"8.3 If pre-authorisation is not approved before admission, the patient may proceed as self-pay and claim reimbursement later."
+POL-ADM-002#1.1,POL-ADM-002,Admission Policy,2.1,2026-04-01,approved,hospital_policy,admission,1,Admission Desk,1.1,"1.1 The Admission Desk is located on the Ground Floor, Block A, and is open 24 hours a day."
+POL-ADM-002#2.1,POL-ADM-002,Admission Policy,2.1,2026-04-01,approved,hospital_policy,admission,2,Planned Admission,2.1,"2.1 For planned surgery, report to the Admission Desk at 7:00 AM on the day of surgery, unless your surgeon has asked you to be admitted the day before."
+POL-ADM-002#2.2,POL-ADM-002,Admission Policy,2.1,2026-04-01,approved,hospital_policy,admission,2,Planned Admission,2.2,"2.2 Bring a government photo ID, your hospital registration card (UHID), insurance card or scheme card, the insurance pre-authorisation approval letter (if insured), current medicines, and previous medical reports."
+POL-ADM-002#3.1,POL-ADM-002,Admission Policy,2.1,2026-04-01,approved,hospital_policy,admission,3,Room Categories and Admission Deposit,3.1,"3.1 The admission deposit for self-pay patients depends on the room category:
+
+| Room category | Deposit |
+|---|---|
+| General ward | ₹20,000 |
+| Semi-private room | ₹35,000 |
+| Private room | ₹50,000 |
+| ICU | ₹1,00,000 |"
+POL-ADM-002#3.2,POL-ADM-002,Admission Policy,2.1,2026-04-01,approved,hospital_policy,admission,3,Room Categories and Admission Deposit,3.2,"3.2 For insured patients with an approved cashless pre-authorisation, the deposit is reduced to ₹10,000, which covers non-payable items and is adjusted in the final bill."
+POL-ADM-002#3.3,POL-ADM-002,Admission Policy,2.1,2026-04-01,approved,hospital_policy,admission,3,Room Categories and Admission Deposit,3.3,3.3 Beneficiaries of the State Health Assurance Scheme with an approved pre-authorisation pay no deposit for covered packages.
+POL-ADM-002#4.1,POL-ADM-002,Admission Policy,2.1,2026-04-01,approved,hospital_policy,admission,4,Emergency Admission,4.1,4.1 Emergency admission is never delayed for deposit or documents. Documents and deposit are collected after the patient is stabilised.
+POL-ADM-002#5.1,POL-ADM-002,Admission Policy,2.1,2026-04-01,approved,hospital_policy,admission,5,Room Change Requests,5.1,5.1 Room upgrades are subject to availability. Insured patients pay any difference above their policy room-rent limit.
+POL-BIL-003#1.1,POL-BIL-003,"Billing, Estimates and Refund Policy",3.0,2026-02-01,approved,hospital_policy,billing_refunds,1,Cost Estimates,1.1,1.1 Cost estimates for procedures are provided on request by the Billing Desk or the patient services assistant.
+POL-BIL-003#1.2,POL-BIL-003,"Billing, Estimates and Refund Policy",3.0,2026-02-01,approved,hospital_policy,billing_refunds,1,Cost Estimates,1.2,"1.2 Estimates are not binding. The final bill may differ by up to 15% depending on the length of stay, room category and clinical needs."
+POL-BIL-003#2.1,POL-BIL-003,"Billing, Estimates and Refund Policy",3.0,2026-02-01,approved,hospital_policy,billing_refunds,2,Insured Patients,2.1,"2.1 Insured patients pay the co-payment, any amount above the sub-limit or room-rent limit, and non-payable items (for example toiletries and registration charges)."
+POL-BIL-003#3.1,POL-BIL-003,"Billing, Estimates and Refund Policy",3.0,2026-02-01,approved,hospital_policy,billing_refunds,3,Payment Modes,3.1,"3.1 Payments are accepted by UPI, debit or credit card, net banking, and cash. Cash payments must be below ₹2,00,000 per transaction."
+POL-BIL-003#4.1,POL-BIL-003,"Billing, Estimates and Refund Policy",3.0,2026-02-01,approved,hospital_policy,billing_refunds,4,Refunds,4.1,4.1 Any excess deposit is refunded to the original payment method within 7 working days of the final bill.
+POL-BIL-003#4.2,POL-BIL-003,"Billing, Estimates and Refund Policy",3.0,2026-02-01,approved,hospital_policy,billing_refunds,4,Refunds,4.2,"4.2 Refund status can be checked through the patient portal, the patient services assistant, or the Billing Desk."
+POL-BIL-003#5.1,POL-BIL-003,"Billing, Estimates and Refund Policy",3.0,2026-02-01,approved,hospital_policy,billing_refunds,5,Billing Queries and Disputes,5.1,5.1 An itemised bill is available on request.
+POL-BIL-003#5.2,POL-BIL-003,"Billing, Estimates and Refund Policy",3.0,2026-02-01,approved,hospital_policy,billing_refunds,5,Billing Queries and Disputes,5.2,"5.2 Billing disputes must be raised at the Billing Desk (Ground Floor, Block A) within 30 days of the final bill. Disputes are resolved by billing staff, not by digital channels."
+POL-BIL-004#4.1,POL-BIL-004,"Billing, Estimates and Refund Policy",4.0-draft,2026-12-01,draft,hospital_policy,billing_refunds,4,Refunds,4.1,4.1 Any excess deposit is refunded to the original payment method within 3 working days of the final bill.
+POL-DIS-003#1.1,POL-DIS-003,Discharge Guidelines,3.0,2026-01-15,approved,hospital_policy,discharge,1,General Discharge Process,1.1,1.1 Discharge is decided by the treating consultant and recorded in the patient record.
+POL-DIS-003#1.2,POL-DIS-003,Discharge Guidelines,3.0,2026-01-15,approved,hospital_policy,discharge,1,General Discharge Process,1.2,1.2 The target discharge time is 11:00 AM on the day of discharge.
+POL-DIS-003#1.3,POL-DIS-003,Discharge Guidelines,3.0,2026-01-15,approved,hospital_policy,discharge,1,General Discharge Process,1.3,"1.3 Before leaving, the patient receives a discharge summary, a reconciled medication list, and follow-up appointment details."
+POL-DIS-003#1.4,POL-DIS-003,Discharge Guidelines,3.0,2026-01-15,approved,hospital_policy,discharge,1,General Discharge Process,1.4,"1.4 Billing clearance must be completed at the Billing Desk (Ground Floor, Block A) before the discharge summary is handed over."
+POL-DIS-003#2.1,POL-DIS-003,Discharge Guidelines,3.0,2026-01-15,approved,hospital_policy,discharge,2,Steps on the Day of Discharge,2.1,2.1 The nurse reviews the discharge summary and medication instructions with the patient and attendant.
+POL-DIS-003#2.2,POL-DIS-003,Discharge Guidelines,3.0,2026-01-15,approved,hospital_policy,discharge,2,Steps on the Day of Discharge,2.2,"2.2 The pharmacy dispenses discharge medicines, if prescribed."
+POL-DIS-003#2.3,POL-DIS-003,Discharge Guidelines,3.0,2026-01-15,approved,hospital_policy,discharge,2,Steps on the Day of Discharge,2.3,"2.3 For insured patients, the TPA desk sends the final bill to the insurer. Cashless discharge may take 3 to 6 hours after the final bill is raised."
+POL-DIS-003#2.4,POL-DIS-003,Discharge Guidelines,3.0,2026-01-15,approved,hospital_policy,discharge,2,Steps on the Day of Discharge,2.4,2.4 The patient collects belongings and any original reports or imaging films.
+POL-DIS-003#3.1,POL-DIS-003,Discharge Guidelines,3.0,2026-01-15,approved,hospital_policy,discharge,3,After Total Knee Replacement,3.1,"3.1 Physiotherapy starts in hospital and continues as an outpatient. The first outpatient physiotherapy session is due within 7 days of discharge, then twice weekly for 6 weeks."
+POL-DIS-003#3.2,POL-DIS-003,Discharge Guidelines,3.0,2026-01-15,approved,hospital_policy,discharge,3,After Total Knee Replacement,3.2,3.2 The wound check and suture or staple removal is done between day 10 and day 14 after surgery.
+POL-DIS-003#3.3,POL-DIS-003,Discharge Guidelines,3.0,2026-01-15,approved,hospital_policy,discharge,3,After Total Knee Replacement,3.3,3.3 Driving should be avoided for 6 weeks or until the surgeon advises otherwise.
+POL-DIS-003#3.4,POL-DIS-003,Discharge Guidelines,3.0,2026-01-15,approved,hospital_policy,discharge,3,After Total Knee Replacement,3.4,"3.4 Seek urgent care or call the hospital emergency line if you have fever above 38.5°C, increasing wound redness or discharge, sudden calf pain or swelling, or chest pain or breathlessness."
+POL-DIS-003#4.1,POL-DIS-003,Discharge Guidelines,3.0,2026-01-15,approved,hospital_policy,discharge,4,After Laparoscopic Cholecystectomy,4.1,4.1 Light activities may resume after 2 to 3 days. Avoid lifting heavy objects for 4 weeks.
+POL-DIS-003#4.2,POL-DIS-003,Discharge Guidelines,3.0,2026-01-15,approved,hospital_policy,discharge,4,After Laparoscopic Cholecystectomy,4.2,4.2 The wound check is done at the follow-up visit 7 to 10 days after surgery.
+POL-DIS-003#4.3,POL-DIS-003,Discharge Guidelines,3.0,2026-01-15,approved,hospital_policy,discharge,4,After Laparoscopic Cholecystectomy,4.3,"4.3 Seek urgent care if you have persistent vomiting, yellowing of the eyes or skin, fever above 38.5°C, or severe abdominal pain."
+POL-DIS-003#5.1,POL-DIS-003,Discharge Guidelines,3.0,2026-01-15,approved,hospital_policy,discharge,5,Follow-up Appointments,5.1,5.1 The first follow-up appointment is booked before discharge and is shown on the discharge summary and in the patient portal.
+POL-DIS-003#5.2,POL-DIS-003,Discharge Guidelines,3.0,2026-01-15,approved,hospital_policy,discharge,5,Follow-up Appointments,5.2,"5.2 Missed follow-up appointments can be rebooked through the patient portal, the patient services assistant, or the department front desk."
+POL-DIS-003#6.1,POL-DIS-003,Discharge Guidelines,3.0,2026-01-15,approved,hospital_policy,discharge,6,Documents Provided at Discharge,6.1,"6.1 Discharge summary, medication list, investigation reports, final bill and payment receipt."
+POL-FAQ-001#1.1,POL-FAQ-001,General Patient Information,1.5,2026-06-01,approved,hospital_policy,general_information,1,Registration,1.1,"1.1 New patients register at the Registration Desk (Ground Floor, Block A) with a government photo ID and receive a hospital registration number (UHID)."
+POL-FAQ-001#2.1,POL-FAQ-001,General Patient Information,1.5,2026-06-01,approved,hospital_policy,general_information,2,Medical Records Requests,2.1,"2.1 Copies of medical records, discharge summaries and reports can be requested at the Medical Records Department (Block A, Basement) or through the patient portal."
+POL-FAQ-001#2.2,POL-FAQ-001,General Patient Information,1.5,2026-06-01,approved,hospital_policy,general_information,2,Medical Records Requests,2.2,"2.2 Copies are provided within 3 working days. A fee of ₹200 applies per request, plus ₹5 per printed page."
+POL-FAQ-001#3.1,POL-FAQ-001,General Patient Information,1.5,2026-06-01,approved,hospital_policy,general_information,3,Parking,3.1,"3.1 Visitor parking is available in the basement of Block D. The first 30 minutes are free, then ₹40 per hour."
+POL-FAQ-001#3.2,POL-FAQ-001,General Patient Information,1.5,2026-06-01,approved,hospital_policy,general_information,3,Parking,3.2,3.2 Patients attending dialysis or chemotherapy receive free parking with a stamped parking ticket.
+POL-FAQ-001#4.1,POL-FAQ-001,General Patient Information,1.5,2026-06-01,approved,hospital_policy,general_information,4,Food and Cafeteria,4.1,"4.1 The cafeteria in Block C, 2nd Floor, is open from 6:00 AM to 11:00 PM."
+POL-FAQ-001#5.1,POL-FAQ-001,General Patient Information,1.5,2026-06-01,approved,hospital_policy,general_information,5,Feedback and Complaints,5.1,"5.1 Feedback can be given through the patient portal, feedback kiosks, or the Patient Relations Office (Ext. 2020). Complaints are acknowledged within 1 working day."
+POL-PRIV-001#1.1,POL-PRIV-001,Patient Privacy and Data Access Policy,1.2,2026-01-01,approved,hospital_policy,privacy,1,Principles,1.1,1.1 Patient health information is confidential and is processed in line with applicable data protection law.
+POL-PRIV-001#1.2,POL-PRIV-001,Patient Privacy and Data Access Policy,1.2,2026-01-01,approved,hospital_policy,privacy,1,Principles,1.2,1.2 Only the minimum information needed for a task is accessed or shared.
+POL-PRIV-001#2.1,POL-PRIV-001,Patient Privacy and Data Access Policy,1.2,2026-01-01,approved,hospital_policy,privacy,2,Patient Access to Own Records,2.1,"2.1 A patient may view their own appointments, results, bills and care plans after logging in to the patient portal or a hospital digital channel."
+POL-PRIV-001#2.2,POL-PRIV-001,Patient Privacy and Data Access Policy,1.2,2026-01-01,approved,hospital_policy,privacy,2,Patient Access to Own Records,2.2,2.2 Copies of medical records can be requested from the Medical Records Department and are provided within 3 working days.
+POL-PRIV-001#3.1,POL-PRIV-001,Patient Privacy and Data Access Policy,1.2,2026-01-01,approved,hospital_policy,privacy,3,Access by Others,3.1,3.1 Family members or caregivers may access a patient's information only if the patient has registered them as an authorised proxy at the Medical Records Department.
+POL-PRIV-001#3.2,POL-PRIV-001,Patient Privacy and Data Access Policy,1.2,2026-01-01,approved,hospital_policy,privacy,3,Access by Others,3.2,3.2 Staff may access patient records only as required by their role.
+POL-PRIV-001#4.1,POL-PRIV-001,Patient Privacy and Data Access Policy,1.2,2026-01-01,approved,hospital_policy,privacy,4,Rules for Digital Channels,4.1,"4.1 A patient's identity must come from the authenticated login session, not from names, numbers or IDs typed into a conversation."
+POL-PRIV-001#4.2,POL-PRIV-001,Patient Privacy and Data Access Policy,1.2,2026-01-01,approved,hospital_policy,privacy,4,Rules for Digital Channels,4.2,"4.2 Digital channels must refuse any request for another person's information, unless proxy access is registered and verified."
+POL-PRIV-001#4.3,POL-PRIV-001,Patient Privacy and Data Access Policy,1.2,2026-01-01,approved,hospital_policy,privacy,4,Rules for Digital Channels,4.3,"4.3 Phone numbers, government ID numbers and insurance policy numbers must be partly masked when displayed (for example XXXXXX4521)."
+POL-PRIV-001#4.4,POL-PRIV-001,Patient Privacy and Data Access Policy,1.2,2026-01-01,approved,hospital_policy,privacy,4,Rules for Digital Channels,4.4,4.4 Logs must not store unmasked personal identifiers.
+POL-VIS-002#1,POL-VIS-002,Visitor Policy,2.0,2025-01-01,superseded,hospital_policy,visiting_hours,1,Purpose,1,"This policy sets out when and how visitors may meet inpatients, balancing patient rest, infection control and family support."
+POL-VIS-002#2.1,POL-VIS-002,Visitor Policy,2.0,2025-01-01,superseded,hospital_policy,visiting_hours,2,General Ward Visiting,2.1,"2.1 General ward visiting hours are 11:00 AM to 1:00 PM and 5:00 PM to 7:00 PM, every day."
+POL-VIS-002#2.2,POL-VIS-002,Visitor Policy,2.0,2025-01-01,superseded,hospital_policy,visiting_hours,2,General Ward Visiting,2.2,2.2 A maximum of two visitors per patient may be present at a time.
+POL-VIS-002#3.1,POL-VIS-002,Visitor Policy,2.0,2025-01-01,superseded,hospital_policy,visiting_hours,3,ICU Visiting,3.1,3.1 ICU visiting hours are 11:00 AM to 12:00 PM and 5:00 PM to 6:00 PM.
+POL-VIS-002#3.2,POL-VIS-002,Visitor Policy,2.0,2025-01-01,superseded,hospital_policy,visiting_hours,3,ICU Visiting,3.2,"3.2 Two visitors per patient per day are permitted, one at a time."
+POL-VIS-002#3.3,POL-VIS-002,Visitor Policy,2.0,2025-01-01,superseded,hospital_policy,visiting_hours,3,ICU Visiting,3.3,3.3 Children under 14 years are not permitted in the ICU.
+POL-VIS-002#4.1,POL-VIS-002,Visitor Policy,2.0,2025-01-01,superseded,hospital_policy,visiting_hours,4,Visitor Pass,4.1,"4.1 All visitors must collect a visitor pass from the main reception (Ground Floor, Block A)."
+POL-VIS-003#1,POL-VIS-003,Visitor Policy,3.0,2026-07-01,approved,hospital_policy,visiting_hours,1,Purpose,1,"This policy sets out when and how visitors may meet inpatients, balancing patient rest, infection control and family support."
+POL-VIS-003#2,POL-VIS-003,Visitor Policy,3.0,2026-07-01,approved,hospital_policy,visiting_hours,2,Scope,2,"This policy applies to all inpatient areas, including general wards, private rooms, the Intensive Care Unit (ICU), paediatric and maternity wards."
+POL-VIS-003#3.1,POL-VIS-003,Visitor Policy,3.0,2026-07-01,approved,hospital_policy,visiting_hours,3,General Ward Visiting,3.1,"3.1 General ward visiting hours are 10:00 AM to 1:00 PM and 4:00 PM to 8:00 PM, every day."
+POL-VIS-003#3.2,POL-VIS-003,Visitor Policy,3.0,2026-07-01,approved,hospital_policy,visiting_hours,3,General Ward Visiting,3.2,3.2 A maximum of two visitors per patient may be present at a time.
+POL-VIS-003#3.3,POL-VIS-003,Visitor Policy,3.0,2026-07-01,approved,hospital_policy,visiting_hours,3,General Ward Visiting,3.3,"3.3 One attendant may stay overnight with a ward patient, with a valid attendant pass issued by the nursing station."
+POL-VIS-003#4.1,POL-VIS-003,Visitor Policy,3.0,2026-07-01,approved,hospital_policy,visiting_hours,4,ICU Visiting,4.1,"4.1 ICU visitors must register at the ICU reception desk (2nd Floor, Block B) and obtain an ICU visitor pass."
+POL-VIS-003#4.2,POL-VIS-003,Visitor Policy,3.0,2026-07-01,approved,hospital_policy,visiting_hours,4,ICU Visiting,4.2,4.2 ICU visiting hours are 10:00 AM to 11:00 AM and 4:00 PM to 5:00 PM.
+POL-VIS-003#4.3,POL-VIS-003,Visitor Policy,3.0,2026-07-01,approved,hospital_policy,visiting_hours,4,ICU Visiting,4.3,"4.3 Only one visitor may be inside the ICU at a time, with a maximum of three visitors per patient per day."
+POL-VIS-003#4.4,POL-VIS-003,Visitor Policy,3.0,2026-07-01,approved,hospital_policy,visiting_hours,4,ICU Visiting,4.4,4.4 Children under 12 years are not permitted in the ICU.
+POL-VIS-003#4.5,POL-VIS-003,Visitor Policy,3.0,2026-07-01,approved,hospital_policy,visiting_hours,4,ICU Visiting,4.5,4.5 Visitors must perform hand hygiene before entering and after leaving the ICU.
+POL-VIS-003#4.6,POL-VIS-003,Visitor Policy,3.0,2026-07-01,approved,hospital_policy,visiting_hours,4,ICU Visiting,4.6,4.6 The ICU nurse in-charge may restrict or pause visits for clinical reasons.
+POL-VIS-003#5.1,POL-VIS-003,Visitor Policy,3.0,2026-07-01,approved,hospital_policy,visiting_hours,5,Paediatric and Maternity Wards,5.1,5.1 One parent or guardian of a paediatric patient may stay with the child 24 hours a day.
+POL-VIS-003#5.2,POL-VIS-003,Visitor Policy,3.0,2026-07-01,approved,hospital_policy,visiting_hours,5,Paediatric and Maternity Wards,5.2,"5.2 In the maternity ward, the patient's spouse or partner may visit from 8:00 AM to 9:00 PM. Other visitors follow general ward hours."
+POL-VIS-003#6.1,POL-VIS-003,Visitor Policy,3.0,2026-07-01,approved,hospital_policy,visiting_hours,6,Visitor Conduct,6.1,6.1 Visitors must keep mobile phones on silent and must not photograph other patients.
+POL-VIS-003#6.2,POL-VIS-003,Visitor Policy,3.0,2026-07-01,approved,hospital_policy,visiting_hours,6,Visitor Conduct,6.2,6.2 Outside food may not be brought into the ICU.
+POL-VIS-003#6.3,POL-VIS-003,Visitor Policy,3.0,2026-07-01,approved,hospital_policy,visiting_hours,6,Visitor Conduct,6.3,"6.3 Visitors who are unwell (fever, cough, cold, diarrhoea) should not visit."
+POL-VIS-003#7.1,POL-VIS-003,Visitor Policy,3.0,2026-07-01,approved,hospital_policy,visiting_hours,7,Exceptions,7.1,"7.1 Compassionate visits outside these hours, including end-of-life care, may be approved by the nursing supervisor on duty."
+POL-VIS-004#1.1,POL-VIS-004,Visitor Policy,4.0,2027-01-01,approved,hospital_policy,visiting_hours,1,Summary of Changes from Version 3.0,1.1,1.1 General ward visiting hours change to a single continuous window. All other sections of Version 3.0 remain unchanged.
+POL-VIS-004#3.1,POL-VIS-004,Visitor Policy,4.0,2027-01-01,approved,hospital_policy,visiting_hours,3,General Ward Visiting,3.1,"3.1 General ward visiting hours are 9:00 AM to 9:00 PM, every day."
+POL-VIS-004#3.2,POL-VIS-004,Visitor Policy,4.0,2027-01-01,approved,hospital_policy,visiting_hours,3,General Ward Visiting,3.2,3.2 A maximum of two visitors per patient may be present at a time.
+POL-VIS-004#4.2,POL-VIS-004,Visitor Policy,4.0,2027-01-01,approved,hospital_policy,visiting_hours,4,ICU Visiting,4.2,4.2 ICU visiting hours remain 10:00 AM to 11:00 AM and 4:00 PM to 5:00 PM.
+PROT-PREOP-003#3.3,PROT-PREOP-003,Pre-Operative Assessment Protocol,3.0,2024-06-01,superseded,hospital_policy,preoperative_assessment,3,Required Investigations,3.3,"3.3 Major surgery (for example total knee replacement): complete blood count, fasting blood glucose, serum creatinine, PT/INR, ECG, chest X-ray, blood grouping and cross-match."
+PROT-PREOP-003#4.1,PROT-PREOP-003,Pre-Operative Assessment Protocol,3.0,2024-06-01,superseded,hospital_policy,preoperative_assessment,4,Validity of Investigations,4.1,4.1 Laboratory tests and ECG must be performed within 60 days before the date of surgery.
+PROT-PREOP-003#4.2,PROT-PREOP-003,Pre-Operative Assessment Protocol,3.0,2024-06-01,superseded,hospital_policy,preoperative_assessment,4,Validity of Investigations,4.2,4.2 Chest X-ray must be performed within 180 days before the date of surgery.
+PROT-PREOP-004#1.1,PROT-PREOP-004,Pre-Operative Assessment Protocol,4.0,2026-03-01,approved,hospital_policy,preoperative_assessment,1,Scope,1.1,1.1 This protocol applies to all planned (elective) surgeries. Emergency surgery follows the Emergency Procedures policy.
+PROT-PREOP-004#2.1,PROT-PREOP-004,Pre-Operative Assessment Protocol,4.0,2026-03-01,approved,hospital_policy,preoperative_assessment,2,Surgery Categories,2.1,2.1 Minor surgery: for example cataract surgery and minor skin excisions.
+PROT-PREOP-004#2.2,PROT-PREOP-004,Pre-Operative Assessment Protocol,4.0,2026-03-01,approved,hospital_policy,preoperative_assessment,2,Surgery Categories,2.2,"2.2 Intermediate surgery: for example laparoscopic cholecystectomy, laparoscopic appendectomy and hernia repair."
+PROT-PREOP-004#2.3,PROT-PREOP-004,Pre-Operative Assessment Protocol,4.0,2026-03-01,approved,hospital_policy,preoperative_assessment,2,Surgery Categories,2.3,"2.3 Major surgery: for example total knee replacement, total hip replacement and cardiac surgery."
+PROT-PREOP-004#3.1,PROT-PREOP-004,Pre-Operative Assessment Protocol,4.0,2026-03-01,approved,hospital_policy,preoperative_assessment,3,Required Investigations,3.1,3.1 Minor surgery: complete blood count (CBC) and fasting blood glucose. An ECG is also required if the patient is 50 years or older.
+PROT-PREOP-004#3.2,PROT-PREOP-004,Pre-Operative Assessment Protocol,4.0,2026-03-01,approved,hospital_policy,preoperative_assessment,3,Required Investigations,3.2,"3.2 Intermediate surgery: CBC, fasting blood glucose, serum creatinine, PT/INR, ECG and blood grouping."
+PROT-PREOP-004#3.3,PROT-PREOP-004,Pre-Operative Assessment Protocol,4.0,2026-03-01,approved,hospital_policy,preoperative_assessment,3,Required Investigations,3.3,"3.3 Major surgery: CBC, fasting blood glucose, HbA1c, serum creatinine, PT/INR, ECG, chest X-ray, blood grouping, and blood cross-match."
+PROT-PREOP-004#4.1,PROT-PREOP-004,Pre-Operative Assessment Protocol,4.0,2026-03-01,approved,hospital_policy,preoperative_assessment,4,Validity of Investigations,4.1,4.1 Laboratory tests and ECG must be performed within 30 days before the date of surgery.
+PROT-PREOP-004#4.2,PROT-PREOP-004,Pre-Operative Assessment Protocol,4.0,2026-03-01,approved,hospital_policy,preoperative_assessment,4,Validity of Investigations,4.2,4.2 Chest X-ray must be performed within 90 days before the date of surgery.
+PROT-PREOP-004#4.3,PROT-PREOP-004,Pre-Operative Assessment Protocol,4.0,2026-03-01,approved,hospital_policy,preoperative_assessment,4,Validity of Investigations,4.3,4.3 Blood grouping remains valid once recorded. Blood cross-match is performed by the blood bank within 72 hours before surgery and is scheduled automatically; it does not need to be booked by the patient.
+PROT-PREOP-004#5,PROT-PREOP-004,Pre-Operative Assessment Protocol,4.0,2026-03-01,approved,hospital_policy,preoperative_assessment,5,Results Requiring Clinical Review,5,"The following results do not automatically stop surgery, but they must be reviewed by the named clinician before clearance:"
+PROT-PREOP-004#5.1,PROT-PREOP-004,Pre-Operative Assessment Protocol,4.0,2026-03-01,approved,hospital_policy,preoperative_assessment,5,Results Requiring Clinical Review,5.1,5.1 HbA1c above 8.5%: review by the treating physician or endocrinologist.
+PROT-PREOP-004#5.2,PROT-PREOP-004,Pre-Operative Assessment Protocol,4.0,2026-03-01,approved,hospital_policy,preoperative_assessment,5,Results Requiring Clinical Review,5.2,5.2 PT/INR above 1.5: review by the operating surgeon.
+PROT-PREOP-004#5.3,PROT-PREOP-004,Pre-Operative Assessment Protocol,4.0,2026-03-01,approved,hospital_policy,preoperative_assessment,5,Results Requiring Clinical Review,5.3,5.3 Serum creatinine above the laboratory reference range: review by the anaesthetist.
+PROT-PREOP-004#5.4,PROT-PREOP-004,Pre-Operative Assessment Protocol,4.0,2026-03-01,approved,hospital_policy,preoperative_assessment,5,Results Requiring Clinical Review,5.4,5.4 ECG reported as abnormal: clearance from Cardiology.
+PROT-PREOP-004#6.1,PROT-PREOP-004,Pre-Operative Assessment Protocol,4.0,2026-03-01,approved,hospital_policy,preoperative_assessment,6,Mandatory Clearances,6.1,6.1 Pre-anaesthesia check-up (PAC) completed within 30 days before surgery.
+PROT-PREOP-004#6.2,PROT-PREOP-004,Pre-Operative Assessment Protocol,4.0,2026-03-01,approved,hospital_policy,preoperative_assessment,6,Mandatory Clearances,6.2,6.2 Informed surgical consent signed by the patient.
+PROT-PREOP-004#6.3,PROT-PREOP-004,Pre-Operative Assessment Protocol,4.0,2026-03-01,approved,hospital_policy,preoperative_assessment,6,Mandatory Clearances,6.3,6.3 For insured patients undergoing planned surgery: insurance pre-authorisation approved. For self-pay patients: admission deposit paid as per the Admission Policy.
+PROT-PREOP-004#7.1,PROT-PREOP-004,Pre-Operative Assessment Protocol,4.0,2026-03-01,approved,hospital_policy,preoperative_assessment,7,Readiness Status,7.1,"7.1 A patient is administratively ready for surgery only when all required investigations (Section 3) are complete and valid (Section 4), any results under Section 5 have been reviewed, and all clearances in Section 6 are complete."
+PROT-PREOP-004#7.2,PROT-PREOP-004,Pre-Operative Assessment Protocol,4.0,2026-03-01,approved,hospital_policy,preoperative_assessment,7,Readiness Status,7.2,7.2 Final clinical clearance for surgery is given only by the operating surgeon and the anaesthetist. Digital assistants and administrative staff may report readiness status but must not grant clearance.
+PROT-PREOP-004#8.1,PROT-PREOP-004,Pre-Operative Assessment Protocol,4.0,2026-03-01,approved,hospital_policy,preoperative_assessment,8,Fasting Before Surgery,8.1,8.1 No solid food for 6 hours before surgery.
+PROT-PREOP-004#8.2,PROT-PREOP-004,Pre-Operative Assessment Protocol,4.0,2026-03-01,approved,hospital_policy,preoperative_assessment,8,Fasting Before Surgery,8.2,"8.2 Clear fluids (water, clear juice without pulp) are allowed up to 2 hours before surgery."
+SOP-CARD-007#1.1,SOP-CARD-007,Cardiac Diagnostic Tests - Patient Preparation,1.0,2026-05-01,approved,department_sop,stress_test_preparation,1,ECG,1.1,1.1 No special preparation is needed.
+SOP-CARD-007#2.1,SOP-CARD-007,Cardiac Diagnostic Tests - Patient Preparation,1.0,2026-05-01,approved,department_sop,stress_test_preparation,2,Echocardiogram,2.1,2.1 No fasting is needed.
+SOP-CARD-007#3.1,SOP-CARD-007,Cardiac Diagnostic Tests - Patient Preparation,1.0,2026-05-01,approved,department_sop,stress_test_preparation,3,Treadmill Stress Test (TMT),3.1,3.1 Do not eat for 4 hours before the test. Water is allowed.
+SOP-CARD-007#3.2,SOP-CARD-007,Cardiac Diagnostic Tests - Patient Preparation,1.0,2026-05-01,approved,department_sop,stress_test_preparation,3,Treadmill Stress Test (TMT),3.2,"3.2 Avoid tea, coffee and other caffeinated drinks for 12 hours before the test."
+SOP-CARD-007#3.3,SOP-CARD-007,Cardiac Diagnostic Tests - Patient Preparation,1.0,2026-05-01,approved,department_sop,stress_test_preparation,3,Treadmill Stress Test (TMT),3.3,3.3 Wear comfortable clothes and walking shoes.
+SOP-CARD-007#3.4,SOP-CARD-007,Cardiac Diagnostic Tests - Patient Preparation,1.0,2026-05-01,approved,department_sop,stress_test_preparation,3,Treadmill Stress Test (TMT),3.4,3.4 Continue your regular medicines unless your cardiologist has told you to stop any of them.
+SOP-CARD-007#4.1,SOP-CARD-007,Cardiac Diagnostic Tests - Patient Preparation,1.0,2026-05-01,approved,department_sop,stress_test_preparation,4,Holter Monitoring,4.1,"4.1 Bathe before the appointment, as the monitor must stay dry for 24 hours."
+SOP-EMR-001#1.1,SOP-EMR-001,Emergency Procedures for Patients and Visitors,1.4,2025-11-01,approved,hospital_policy,emergency,1,Emergency Department,1.1,"1.1 The Emergency Department is located in Block C, Ground Floor, and is open 24 hours a day, 7 days a week."
+SOP-EMR-001#1.2,SOP-EMR-001,Emergency Procedures for Patients and Visitors,1.4,2025-11-01,approved,hospital_policy,emergency,1,Emergency Department,1.2,1.2 Hospital emergency line: 1800-123-4567 (internal Ext. 1000). National ambulance service: 108.
+SOP-EMR-001#2,SOP-EMR-001,Emergency Procedures for Patients and Visitors,1.4,2025-11-01,approved,hospital_policy,emergency,2,Warning Signs That Need Emergency Care,2,Go to the Emergency Department or call for an ambulance immediately for:
+SOP-EMR-001#2.1,SOP-EMR-001,Emergency Procedures for Patients and Visitors,1.4,2025-11-01,approved,hospital_policy,emergency,2,Warning Signs That Need Emergency Care,2.1,"2.1 Chest pain, pressure or tightness."
+SOP-EMR-001#2.2,SOP-EMR-001,Emergency Procedures for Patients and Visitors,1.4,2025-11-01,approved,hospital_policy,emergency,2,Warning Signs That Need Emergency Care,2.2,2.2 Difficulty breathing or severe breathlessness.
+SOP-EMR-001#2.3,SOP-EMR-001,Emergency Procedures for Patients and Visitors,1.4,2025-11-01,approved,hospital_policy,emergency,2,Warning Signs That Need Emergency Care,2.3,"2.3 Signs of stroke: sudden face drooping, arm or leg weakness, slurred speech, or sudden confusion."
+SOP-EMR-001#2.4,SOP-EMR-001,Emergency Procedures for Patients and Visitors,1.4,2025-11-01,approved,hospital_policy,emergency,2,Warning Signs That Need Emergency Care,2.4,2.4 Severe bleeding that does not stop.
+SOP-EMR-001#2.5,SOP-EMR-001,Emergency Procedures for Patients and Visitors,1.4,2025-11-01,approved,hospital_policy,emergency,2,Warning Signs That Need Emergency Care,2.5,"2.5 Loss of consciousness, fainting, or a seizure."
+SOP-EMR-001#2.6,SOP-EMR-001,Emergency Procedures for Patients and Visitors,1.4,2025-11-01,approved,hospital_policy,emergency,2,Warning Signs That Need Emergency Care,2.6,"2.6 Severe allergic reaction with swelling of the face, lips or throat."
+SOP-EMR-001#3.1,SOP-EMR-001,Emergency Procedures for Patients and Visitors,1.4,2025-11-01,approved,hospital_policy,emergency,3,Triage,3.1,"3.1 Patients are seen in order of clinical urgency, not arrival time."
+SOP-EMR-001#4.1,SOP-EMR-001,Emergency Procedures for Patients and Visitors,1.4,2025-11-01,approved,hospital_policy,emergency,4,Guidance for Digital Channels,4.1,"4.1 If a patient reports any warning sign in Section 2 through the patient portal or a digital assistant, the channel must immediately direct the patient to emergency care and must not continue with routine service tasks."
+SOP-LAB-002#1.1,SOP-LAB-002,Laboratory Services - Patient Guide,2.0,2026-01-10,approved,department_sop,laboratory_services,1,Sample Collection,1.1,"1.1 The sample collection centre is on the Ground Floor, Block A, open daily from 7:00 AM to 7:00 PM."
+SOP-LAB-002#1.2,SOP-LAB-002,Laboratory Services - Patient Guide,2.0,2026-01-10,approved,department_sop,laboratory_services,1,Sample Collection,1.2,1.2 Home sample collection is available from 6:00 AM to 10:00 AM and must be booked by 6:00 PM on the previous day.
+SOP-LAB-002#2,SOP-LAB-002,Laboratory Services - Patient Guide,2.0,2026-01-10,approved,department_sop,laboratory_services,2,Test Preparation,2,"| Test | Preparation |
+|---|---|
+| Fasting blood glucose | Fast for 8 to 10 hours. Water is allowed. |
+| HbA1c | No fasting needed. |
+| Lipid profile | Fast for 10 to 12 hours. Water is allowed. |
+| Serum creatinine | No fasting needed. |
+| PT/INR | No fasting needed. Tell the staff if you take blood thinners. |
+| Thyroid (TSH) | No fasting needed. A morning sample is preferred. |
+| Complete blood count | No fasting needed. |"
+SOP-LAB-002#3,SOP-LAB-002,Laboratory Services - Patient Guide,2.0,2026-01-10,approved,department_sop,laboratory_services,3,Turnaround Time,3,"| Test | Result available within |
+|---|---|
+| Complete blood count | 4 hours |
+| Fasting or random blood glucose | 4 hours |
+| Electrolytes (sodium, potassium) | 4 hours |
+| PT/INR | 4 hours |
+| Serum creatinine | 6 hours |
+| HbA1c | 24 hours |
+| Lipid profile | 24 hours |
+| Thyroid (TSH) | 24 hours |
+| Blood grouping | 2 hours |
+| Cultures | 48 to 72 hours |"
+SOP-LAB-002#4.1,SOP-LAB-002,Laboratory Services - Patient Guide,2.0,2026-01-10,approved,department_sop,laboratory_services,4,Result Release,4.1,4.1 Results are released to the patient portal and digital channels only after verification by a pathologist.
+SOP-LAB-002#4.2,SOP-LAB-002,Laboratory Services - Patient Guide,2.0,2026-01-10,approved,department_sop,laboratory_services,4,Result Release,4.2,"4.2 Each result shows the value, unit, the laboratory reference range, and a flag (H for high, L for low) set by the laboratory system."
+SOP-LAB-002#5.1,SOP-LAB-002,Laboratory Services - Patient Guide,2.0,2026-01-10,approved,department_sop,laboratory_services,5,Critical Values,5.1,"5.1 When a result is in the critical range, the laboratory informs the treating doctor by phone within 30 minutes."
+SOP-LAB-002#5.2,SOP-LAB-002,Laboratory Services - Patient Guide,2.0,2026-01-10,approved,department_sop,laboratory_services,5,Critical Values,5.2,"5.2 When a patient views a critical result through a digital channel, the channel must advise the patient to contact their care team immediately, or go to the Emergency Department if they feel unwell. Digital channels must not interpret the result."
+SOP-LAB-002#6.1,SOP-LAB-002,Laboratory Services - Patient Guide,2.0,2026-01-10,approved,department_sop,laboratory_services,6,Report Corrections,6.1,"6.1 Corrected reports are marked ""Amended"" and replace the earlier version in the patient record."
+SOP-NUR-005#1.1,SOP-NUR-005,Patient Identification and Pre-procedure Nursing Checks,1.3,2025-09-01,approved,department_sop,nursing_patient_identification,1,Patient Identification,1.1,"1.1 Before any sample collection, medication or procedure, staff confirm two identifiers: the patient's full name and either the hospital registration number (UHID) or date of birth."
+SOP-NUR-005#1.2,SOP-NUR-005,Patient Identification and Pre-procedure Nursing Checks,1.3,2025-09-01,approved,department_sop,nursing_patient_identification,1,Patient Identification,1.2,1.2 Room or bed number must never be used as an identifier.
+SOP-NUR-005#2.1,SOP-NUR-005,Patient Identification and Pre-procedure Nursing Checks,1.3,2025-09-01,approved,department_sop,nursing_patient_identification,2,Sample Collection,2.1,"2.1 Fasting status is confirmed verbally before collecting a fasting sample. If the patient has not fasted, the sample is labelled ""non-fasting""."
+SOP-NUR-005#2.2,SOP-NUR-005,Patient Identification and Pre-procedure Nursing Checks,1.3,2025-09-01,approved,department_sop,nursing_patient_identification,2,Sample Collection,2.2,2.2 Sample tubes are labelled at the bedside in front of the patient.
+SOP-NUR-005#3.1,SOP-NUR-005,Patient Identification and Pre-procedure Nursing Checks,1.3,2025-09-01,approved,department_sop,nursing_patient_identification,3,Pre-surgery Nursing Checklist,3.1,3.1 Identity band in place and verified.
+SOP-NUR-005#3.2,SOP-NUR-005,Patient Identification and Pre-procedure Nursing Checks,1.3,2025-09-01,approved,department_sop,nursing_patient_identification,3,Pre-surgery Nursing Checklist,3.2,3.2 Fasting status confirmed as per the Pre-Operative Assessment Protocol.
+SOP-NUR-005#3.3,SOP-NUR-005,Patient Identification and Pre-procedure Nursing Checks,1.3,2025-09-01,approved,department_sop,nursing_patient_identification,3,Pre-surgery Nursing Checklist,3.3,3.3 Signed consent form present in the record.
+SOP-NUR-005#3.4,SOP-NUR-005,Patient Identification and Pre-procedure Nursing Checks,1.3,2025-09-01,approved,department_sop,nursing_patient_identification,3,Pre-surgery Nursing Checklist,3.4,"3.4 Jewellery, dentures, contact lenses and nail polish removed."
+SOP-NUR-005#3.5,SOP-NUR-005,Patient Identification and Pre-procedure Nursing Checks,1.3,2025-09-01,approved,department_sop,nursing_patient_identification,3,Pre-surgery Nursing Checklist,3.5,3.5 Allergies documented and allergy band applied if needed.
+SOP-NUR-011#1.1,SOP-NUR-011,Outpatient Procedure Preparation - Nursing Guide,1.0,2026-05-01,approved,department_sop,stress_test_preparation,1,General,1.1,1.1 Nurses confirm preparation instructions with patients during the reminder call one day before the procedure.
+SOP-NUR-011#2.1,SOP-NUR-011,Outpatient Procedure Preparation - Nursing Guide,1.0,2026-05-01,approved,department_sop,stress_test_preparation,2,Upper GI Endoscopy,2.1,2.1 Do not eat or drink for 8 hours before the procedure.
+SOP-NUR-011#3.1,SOP-NUR-011,Outpatient Procedure Preparation - Nursing Guide,1.0,2026-05-01,approved,department_sop,stress_test_preparation,3,Treadmill Stress Test (TMT),3.1,3.1 A light meal is allowed up to 2 hours before the test.
+SOP-NUR-011#3.2,SOP-NUR-011,Outpatient Procedure Preparation - Nursing Guide,1.0,2026-05-01,approved,department_sop,stress_test_preparation,3,Treadmill Stress Test (TMT),3.2,3.2 Wear comfortable clothes and walking shoes.
+SOP-NUR-011#4.1,SOP-NUR-011,Outpatient Procedure Preparation - Nursing Guide,1.0,2026-05-01,approved,department_sop,stress_test_preparation,4,Colonoscopy,4.1,4.1 Follow the bowel preparation instructions provided by the Gastroenterology department.
+SOP-RAD-001#1,SOP-RAD-001,MRI and CT Scan Scheduling and Preparation,1.2,2026-02-01,approved,department_sop,imaging_scheduling,1,Purpose,1,This SOP describes how patients schedule and prepare for MRI and CT scans.
+SOP-RAD-001#2.1,SOP-RAD-001,MRI and CT Scan Scheduling and Preparation,1.2,2026-02-01,approved,department_sop,imaging_scheduling,2,How to Schedule an MRI or CT Scan,2.1,2.1 An MRI or CT scan requires a doctor's order (radiology requisition) in the patient's hospital record. Self-referral is not accepted.
+SOP-RAD-001#2.2,SOP-RAD-001,MRI and CT Scan Scheduling and Preparation,1.2,2026-02-01,approved,department_sop,imaging_scheduling,2,How to Schedule an MRI or CT Scan,2.2,"2.2 Once the order is in the record, the scan can be booked through the patient portal, the patient services assistant, or the Radiology front desk (Ext. 2210)."
+SOP-RAD-001#2.3,SOP-RAD-001,MRI and CT Scan Scheduling and Preparation,1.2,2026-02-01,approved,department_sop,imaging_scheduling,2,How to Schedule an MRI or CT Scan,2.3,2.3 The patient must complete the MRI safety questionnaire at the time of booking (see Section 3).
+SOP-RAD-001#2.4,SOP-RAD-001,MRI and CT Scan Scheduling and Preparation,1.2,2026-02-01,approved,department_sop,imaging_scheduling,2,How to Schedule an MRI or CT Scan,2.4,"2.4 For scans with contrast, a serum creatinine result from the last 30 days is required before the booking is confirmed."
+SOP-RAD-001#2.5,SOP-RAD-001,MRI and CT Scan Scheduling and Preparation,1.2,2026-02-01,approved,department_sop,imaging_scheduling,2,How to Schedule an MRI or CT Scan,2.5,"2.5 Booking confirmation is sent by SMS with the date, time, location (Radiology, Ground Floor, Block A) and preparation instructions."
+SOP-RAD-001#2.6,SOP-RAD-001,MRI and CT Scan Scheduling and Preparation,1.2,2026-02-01,approved,department_sop,imaging_scheduling,2,How to Schedule an MRI or CT Scan,2.6,"2.6 Scan slots are available Monday to Saturday, 7:00 AM to 10:00 PM, and Sunday, 8:00 AM to 2:00 PM."
+SOP-RAD-001#3.1,SOP-RAD-001,MRI and CT Scan Scheduling and Preparation,1.2,2026-02-01,approved,department_sop,imaging_scheduling,3,MRI Safety Screening,3.1,"3.1 Patients must declare any pacemaker, defibrillator, cochlear implant, metal implant, aneurysm clip, insulin pump, or metal fragments in the body."
+SOP-RAD-001#3.2,SOP-RAD-001,MRI and CT Scan Scheduling and Preparation,1.2,2026-02-01,approved,department_sop,imaging_scheduling,3,MRI Safety Screening,3.2,3.2 Patients with a pacemaker or defibrillator require written clearance from Cardiology before an MRI is booked.
+SOP-RAD-001#3.3,SOP-RAD-001,MRI and CT Scan Scheduling and Preparation,1.2,2026-02-01,approved,department_sop,imaging_scheduling,3,MRI Safety Screening,3.3,3.3 Patients who are or may be pregnant must inform the Radiology staff before the scan.
+SOP-RAD-001#4.1,SOP-RAD-001,MRI and CT Scan Scheduling and Preparation,1.2,2026-02-01,approved,department_sop,imaging_scheduling,4,Preparation,4.1,4.1 MRI without contrast: no fasting is required.
+SOP-RAD-001#4.2,SOP-RAD-001,MRI and CT Scan Scheduling and Preparation,1.2,2026-02-01,approved,department_sop,imaging_scheduling,4,Preparation,4.2,4.2 MRI or CT with contrast: do not eat for 4 hours before the scan. Water is allowed.
+SOP-RAD-001#4.3,SOP-RAD-001,MRI and CT Scan Scheduling and Preparation,1.2,2026-02-01,approved,department_sop,imaging_scheduling,4,Preparation,4.3,4.3 Patients taking metformin who are scheduled for a contrast scan must follow the instructions given by their treating doctor.
+SOP-RAD-001#4.4,SOP-RAD-001,MRI and CT Scan Scheduling and Preparation,1.2,2026-02-01,approved,department_sop,imaging_scheduling,4,Preparation,4.4,"4.4 Remove all jewellery, watches, hairpins and metal objects before an MRI."
+SOP-RAD-001#5.1,SOP-RAD-001,MRI and CT Scan Scheduling and Preparation,1.2,2026-02-01,approved,department_sop,imaging_scheduling,5,On the Day of the Scan,5.1,5.1 Arrive 30 minutes before the scheduled time.
+SOP-RAD-001#5.2,SOP-RAD-001,MRI and CT Scan Scheduling and Preparation,1.2,2026-02-01,approved,department_sop,imaging_scheduling,5,On the Day of the Scan,5.2,"5.2 Bring a photo ID, the doctor's order (if printed), and any previous scan reports or CDs."
+SOP-RAD-001#6.1,SOP-RAD-001,MRI and CT Scan Scheduling and Preparation,1.2,2026-02-01,approved,department_sop,imaging_scheduling,6,Reports,6.1,6.1 Routine MRI and CT reports are available within 24 hours on the patient portal.
+SOP-RAD-001#6.2,SOP-RAD-001,MRI and CT Scan Scheduling and Preparation,1.2,2026-02-01,approved,department_sop,imaging_scheduling,6,Reports,6.2,6.2 Emergency scan reports are available to the treating doctor within 2 hours.
+SOP-RAD-001#7.1,SOP-RAD-001,MRI and CT Scan Scheduling and Preparation,1.2,2026-02-01,approved,department_sop,imaging_scheduling,7,Rescheduling and Cancellation,7.1,7.1 Scans may be rescheduled or cancelled free of charge up to 12 hours before the slot.
+SOP-RAD-001#7.2,SOP-RAD-001,MRI and CT Scan Scheduling and Preparation,1.2,2026-02-01,approved,department_sop,imaging_scheduling,7,Rescheduling and Cancellation,7.2,"7.2 Within 12 hours of the slot, contact the Radiology front desk (Ext. 2210)."

@@ -1,0 +1,67 @@
+user_id,role,display_name,patient_id,proxy_for_patient_id,department_id,can_upload_documents
+U-P001,patient,David Williams,P001,,,N
+U-P002,patient,Emily Smith,P002,,,N
+U-P003,patient,Laura Jones,P003,,,N
+U-P004,patient,Michael Johnson,P004,,,N
+U-P005,patient,David Wilson,P005,,,N
+U-P006,patient,Linda Jones,P006,,,N
+U-P007,patient,Alex Johnson,P007,,,N
+U-P008,patient,David Davis,P008,,,N
+U-P009,patient,Laura Davis,P009,,,N
+U-P010,patient,Michael Taylor,P010,,,N
+U-P011,patient,Emily Jones,P011,,,N
+U-P012,patient,Laura Davis,P012,,,N
+U-P013,patient,Laura Johnson,P013,,,N
+U-P014,patient,Alex Taylor,P014,,,N
+U-P015,patient,Sarah Johnson,P015,,,N
+U-P016,patient,Michael Taylor,P016,,,N
+U-P017,patient,Jane Jones,P017,,,N
+U-P018,patient,Laura Wilson,P018,,,N
+U-P019,patient,Sarah Miller,P019,,,N
+U-P020,patient,Jane Moore,P020,,,N
+U-P021,patient,Michael Wilson,P021,,,N
+U-P022,patient,John Brown,P022,,,N
+U-P023,patient,Linda Johnson,P023,,,N
+U-P024,patient,Sarah Brown,P024,,,N
+U-P025,patient,Robert Wilson,P025,,,N
+U-P026,patient,John Taylor,P026,,,N
+U-P027,patient,Linda Moore,P027,,,N
+U-P028,patient,Alex Moore,P028,,,N
+U-P029,patient,David Smith,P029,,,N
+U-P030,patient,Emily Moore,P030,,,N
+U-P031,patient,Robert Miller,P031,,,N
+U-P032,patient,Alex Moore,P032,,,N
+U-P033,patient,Michael Wilson,P033,,,N
+U-P034,patient,Alex Smith,P034,,,N
+U-P035,patient,David Wilson,P035,,,N
+U-P036,patient,Michael Wilson,P036,,,N
+U-P037,patient,Robert Williams,P037,,,N
+U-P038,patient,David Smith,P038,,,N
+U-P039,patient,Jane Wilson,P039,,,N
+U-P040,patient,Emily Williams,P040,,,N
+U-P041,patient,Robert Williams,P041,,,N
+U-P042,patient,Jane Smith,P042,,,N
+U-P043,patient,Linda Brown,P043,,,N
+U-P044,patient,Robert Taylor,P044,,,N
+U-P045,patient,Linda Miller,P045,,,N
+U-P046,patient,Michael Taylor,P046,,,N
+U-P047,patient,Jane Moore,P047,,,N
+U-P048,patient,Emily Miller,P048,,,N
+U-P049,patient,David Moore,P049,,,N
+U-P050,patient,Laura Wilson,P050,,,N
+U-P051,patient,Aarav Sharma,P051,,,N
+U-P052,patient,Priya Nair,P052,,,N
+U-P053,patient,Rohan Mehta,P053,,,N
+U-P054,patient,Fatima Khan,P054,,,N
+U-P055,patient,Vikram Singh,P055,,,N
+U-P056,patient,Lakshmi Iyer,P056,,,N
+U-P057,patient,Arjun Reddy,P057,,,N
+U-P058,patient,Meera Joshi,P058,,,N
+U-P059,patient,Kabir Das,P059,,,N
+U-P060,patient,Ananya Gupta,P060,,,N
+U-PROXY-01,proxy,"Divya Iyer (daughter of P056, registered proxy)",,P056,,N
+U-NURSE-01,nurse,Staff Nurse Rekha,,,DEP-GSUR,N
+U-BILL-01,billing_staff,Billing Officer Naveen,,,,N
+U-TPA-01,tpa_staff,TPA Desk Officer Shalini,,,,N
+U-ADMIN-01,admin,Knowledge Base Administrator,,,,Y
+U-AUDIT-01,auditor,Compliance Auditor,,,,N
